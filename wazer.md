@@ -4,7 +4,7 @@
 
 # Cleaning
 
-![]((https://github.com/fablabedp/fablabedp-wiki/raw/main/images/wazer_low_pressure_system.png)
+![](https://github.com/fablabedp/fablabedp-wiki/raw/main/images/wazer_low_pressure_system.png)
 
 
 ## Cleaning everything above the water level
