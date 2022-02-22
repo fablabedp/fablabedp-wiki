@@ -1,0 +1,17 @@
+![](https://i.imgur.com/6QPmjAg.png)
+
+## Physical Computing
+
+[BBC micro:bit](/2hb61PNfSKuB99wGxJ_tlg)
+
+## Equipment
+
+[Wazer](/VNoGNHg7T7-jaMRw5cHMLg)
+
+## CAD
+
+[Rhino](/tCvX9WtMQC6qvMej3XqHrg)
+
+## CNC
+
+[RhinoCAM](/9t6vNi0jRWaROzyPzBqpiA)
