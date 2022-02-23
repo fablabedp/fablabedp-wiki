@@ -37,8 +37,8 @@
    - 'Comments' - part number for reference
 - Importing VEE type tools from .csv is a bit funky. 'Flute Length' in the csv will be interpreted as 'Shoulder Len.' and used to recalculate the tool diameter.  To get the correct values for the table:
    1. Import the csv with the measured flute length.
-   2. Correct the tool diameter and re-export the csv, the flute length will now have the recalculated value from rhinocam.
-   3. Update the excel table with the recalculated flute length.
+   2. Correct the tool diameter and re-export the csv, the flute length will now have the recalculated value from rhinocam and the tool diameter will be 0.
+   3. Update the excel table with the recalculated flute length and set the tool diameter to 0.
 - Tools with custom profiles must be edited in rhinocam and do not exist on the excel table.
 
 ## Feeds and Speeds
