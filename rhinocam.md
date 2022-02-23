@@ -25,6 +25,21 @@
 
 ### Editing the library
 
+1. Edit `fablabedp_tools.xlsx` and then export the `tools` tab as a .csv file.
+2. Load the csv into rhinocam in the machining objects window.
+3. Save the tool library to `fablabedp_tools.vkb` to update the knowledgebase file.
+
+- The 'quantidades' tab in excel is just for reference and is not used by rhinocam
+- Column notes:
+   - 'Shank Diameter' - Rhinocam considers the shank of a tool flush to the cut surface as a collision.  To avoid this, we can set the shank diameter slightly less than the tool diameter.
+   - 'Tool #' - always 1 by default, and then changed on a job basis if needed.
+   - 'AA > AL' - default feeds and speeds for the tool, but these will be overwritten if following these steps > [#Setting-Feeds-and-Speeds](#Setting-Feeds-and-Speeds).
+   - 'Comments' - part number for reference
+- Importing VEE type tools from .csv is a bit funky. 'Flute Length' in the csv will be interpreted as 'Shoulder Len.' and used to recalculate the tool diameter.  To get the correct values for the table:
+   1. Import the csv with the measured flute length.
+   2. Correct the tool diameter and re-export the csv, the flute length will now have the recalculated value from rhinocam.
+   3. Update the excel table with the recalculated flute length.
+- Tools with custom profiles must be edited in rhinocam and do not exist on the excel table.
 
 ## Feeds and Speeds
 
