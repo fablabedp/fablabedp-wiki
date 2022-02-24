@@ -1,4 +1,4 @@
-# RhinoCAM 
+# RhinoCAM
 
 ###### tags: `CAD` `CAM` `rhino` `cnc`
 
@@ -43,15 +43,15 @@
 
 ## Feeds and Speeds
 
-**Surface Speed**: Speed of cutting edge relative to material
-**Chip Load**:  Amount of material removed with each pass of the cutting edge
+**Surface Speed**: Speed of cutting edge relative to material  
+**Chip Load**:  Amount of material removed with each pass of the cutting edge  
 **Feed Rate**: Speed of toolhead relative to material
 
-Using Surface Speed and Chipload to calculate Spindle RPM and Feedrate:
-`Spindle RPM = surface speed / (PI * Tool Diameter)`
+Using Surface Speed and Chipload to calculate Spindle RPM and Feedrate:  
+`Spindle RPM = surface speed / (PI * Tool Diameter)`  
 `Feed Rate = Spindle RPM * No. Flutes * Chip Load`
 
-Some reference values:
+Some reference values:  
 https://pub.pages.cba.mit.edu/feed_speeds/
 
 ### Setting Feeds and Speeds

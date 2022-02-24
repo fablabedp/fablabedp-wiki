@@ -2,13 +2,13 @@
 
 ###### tags:`physical-computing` `microbit` `makecode`
 
-![image alt](https://cdn-shop.adafruit.com/970x728/4781-03.jpg)
-hardware overview:
-https://tech.microbit.org/hardware
+![image alt](https://cdn-shop.adafruit.com/970x728/4781-03.jpg)  
+hardware overview:  
+https://tech.microbit.org/hardware  
 
-![](https://tech.microbit.org/docs/hardware/assets/v2-block.svg)
-Main MCU: Nordic Semiconductor nRF52833 (v2), nRF51822 (v1)
-Interface MCU: Freescale KL27 (v2), KL26 (v1)
+![](https://tech.microbit.org/docs/hardware/assets/v2-block.svg)  
+Main MCU: Nordic Semiconductor nRF52833 (v2), nRF51822 (v1)  
+Interface MCU: Freescale KL27 (v2), KL26 (v1)  
 
 ## Power
 
@@ -34,7 +34,7 @@ Board with all on-board peripherals in use consumes max 30mA
 
 ### Sleep mode
 
-v2 board only
+v2 board only  
 https://support.microbit.org/support/solutions/articles/19000120358-how-do-i-power-off-or-put-the-micro-bit-to-sleep-
  - press and hold power/reset for 5 seconds
  - if powered by usb, will enter 'sleep' mode
@@ -50,54 +50,54 @@ In Chrome or Edge webUSB can be used to connect directly to a web app to the boa
 
 ### MakeCode
 
-https://makecode.microbit.org/
-https://makecode.com/about
+https://makecode.microbit.org/  
+https://makecode.com/about  
 Programming by blocks, javascript or python.  Can create projects that are python/javascript-only, or use a mixed project to permit interchanging between languages.
 
-MakeCode is based on the Microsoft Programming Experience Toolkit (PXT). 
+MakeCode is based on the Microsoft Programming Experience Toolkit (PXT).  
 https://github.com/microsoft/pxt
 
-There are various versions of MakeCode for other "targets" such as the Adafruit Circuit Playground: https://makecode.adafruit.com
-and a variety of other boards and platforms:
-https://maker.makecode.com/
+There are various versions of MakeCode for other "targets" such as the Adafruit Circuit Playground: https://makecode.adafruit.com  
+and a variety of other boards and platforms:  
+https://maker.makecode.com/  
 https://makecode.com/labs
 
 Code in MakeCode is converted to Static TypeScript.  When downloading the code it is converted to the target's native format and can be saved as a hex file.  (in the case of the microbit, maybe this is in C/C++ for interpretation by the the DAL/CODAL rutnime? see https://tech.microbit.org/software/runtime/)
 
-*MakeCode Python is not compatible with MicroPython, it is tailored to MakeCode and has a different API ("It is in fact just static TypeScript surfaced with Python syntax")
+*MakeCode Python is not compatible with MicroPython, it is tailored to MakeCode and has a different API ("It is in fact just static TypeScript surfaced with Python syntax")  
 https://support.microbit.org/support/solutions/articles/19000111744-makecode-python-and-micropython*
 
 #### Command Line Tool
 
-PXT can be used via the commandline using node.js
+PXT can be used via the commandline using node.js  
 https://makecode.com/cli
 
 ### MicroPython
 
-Can program the microbit directly with MicroPython
-https://github.com/bbcmicrobit/micropython
+Can program the microbit directly with MicroPython  
+https://github.com/bbcmicrobit/micropython  
 https://microbit-micropython.readthedocs.io/en/v2-docs/
 
-Using the microbit web Python Editor, wich also supports webUSB
-https://python.microbit.org/v/2
+Using the microbit web Python Editor, wich also supports webUSB  
+https://python.microbit.org/v/2  
 https://github.com/bbcmicrobit/PythonEditor
 
-Can also use the Mu desktop Python Editor
+Can also use the Mu desktop Python Editor  
 https://codewith.mu/en/
 
 Can also use the REPL (Read, Evaluate, Print Loop) via either editor, or via a serial connection in such as with PuTTY, or screen
 
 ### CircuitPython
 
-CircuitPython is a version of MicroPython developed by Adafruit primarily for the SAMD21 boards but with some added features.
+CircuitPython is a version of MicroPython developed by Adafruit primarily for the SAMD21 boards but with some added features.  
 https://learn.adafruit.com/welcome-to-circuitpython/overview
 
-Using CircuitPython on the microbit requires updating the firmware first:
+Using CircuitPython on the microbit requires updating the firmware first:  
 https://circuitpython.org/board/microbit_v2/
 
 ### Arduino
 
-It is possible to use the Arduino IDE with the microbit
+It is possible to use the Arduino IDE with the microbit  
 https://learn.adafruit.com/use-micro-bit-with-arduino/install-board-and-blink
 
 
@@ -111,7 +111,7 @@ The microbit has an interface MCU that provides:
  - HID - CMSIS-DAP compliant debug channel
  - WebUSB 
 
-https://microbit.org/get-started/user-guide/firmware/
+https://microbit.org/get-started/user-guide/firmware/  
 https://tech.microbit.org/software/daplink-interface/
 
 The microbit can boot in two ways:
@@ -121,27 +121,27 @@ The microbit can boot in two ways:
 
 ### DAPLink
 
-Interface software for programming and debugging software on arm cortex cpus.
-https://daplink.io/
+Interface software for programming and debugging software on arm cortex cpus.  
+https://daplink.io/  
 https://github.com/ARMmbed/DAPLink
 
 
 
-Nice quick overview by ladyada about SWD, how it is different from SPI, and how they developed adafruit_DAP for flashing the SAMD chips on their boards:
-https://www.youtube.com/watch?v=bzihf4l7joc
+Nice quick overview by ladyada about SWD, how it is different from SPI, and how they developed adafruit_DAP for flashing the SAMD chips on their boards:  
+https://www.youtube.com/watch?v=bzihf4l7joc  
 https://github.com/adafruit/Adafruit_DAP
 
 
 ## Wireless
 
-Supports Bluetooth 5.1 with Bluetooth Low Energy(BLE)
+Supports Bluetooth 5.1 with Bluetooth Low Energy(BLE)  
 https://tech.microbit.org/bluetooth/
 
-There is also a microbit-radio protocol that uses other standards provided by the Nordic chip.  This is the protocol used by the default Radio functions in MakeCode, and provides a simpler way to send messages between microbits.
-https://support.microbit.org/support/solutions/articles/19000083637-using-the-micro-bit-wirelessly-
+There is also a microbit-radio protocol that uses other standards provided by the Nordic chip.  This is the protocol used by the default Radio functions in MakeCode, and provides a simpler way to send messages between microbits.  
+https://support.microbit.org/support/solutions/articles/19000083637-using-the-micro-bit-wirelessly-  
 https://lancaster-university.github.io/microbit-docs/ubit/radio/
 
 In order to use bluetooth function in MakeCode, an extension needs to be added and it will remove the default Radio functions.
 
-Introduction to networking, using the microbit-radio protocol:
+Introduction to networking, using the microbit-radio protocol:  
 https://microbit.nominetresearch.uk/networking-book-online/
