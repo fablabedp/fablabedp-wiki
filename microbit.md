@@ -2,7 +2,7 @@
 
 ###### tags:`physical-computing` `microbit` `makecode`
 
-![image alt](https://cdn-shop.adafruit.com/970x728/4781-03.jpg)  
+![](https://cdn-shop.adafruit.com/970x728/4781-03.jpg)  
 hardware overview:  
 https://tech.microbit.org/hardware  
 
