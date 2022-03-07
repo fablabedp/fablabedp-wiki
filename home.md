@@ -9,6 +9,7 @@
 ## Equipment
 
 [Wazer](/VNoGNHg7T7-jaMRw5cHMLg)
+[Laser Cutter](/laser.md)
 
 ## CAD
 
