@@ -148,6 +148,11 @@ Setting the X-Y home:
 ## Centering
 
 
+With the `Center-Engraving` option selected, the machine will center the drawing at the X-Y home (all cuts, not just engravings).
+
+ - **Center-Center** - Will center the drawing at the X-Y home, based on the drawing extents.  Page size will be ignored.
+ - **Page-Center** - 
+
 *The Centering option does not seem to affect the job preview, ie: the result does not represent the preview, and depends on the defined home position*
 
 
@@ -162,3 +167,6 @@ Setting the X-Y home:
 
 
 ## Color Mapping
+
+
+Air assist for raster?
