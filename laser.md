@@ -164,6 +164,8 @@ Selecting this option will put an asterisk next to the job name on the machine.
  - `Center-Center` - Will center the drawing at the X-Y home, based on the drawing extents.  Page size will be ignored.
  - `Page-Center` - Will center the page as defined by `Piece Size` at the X-Y home.  This might be useful if you require non-uniform margins that are not represented by the drawing extents.
  - `Left-Center` and `Top-Center` - These do not seem to work on our machine.  Trying to run the job gives the error "Job Not Ready Yet"
+
+**IMPORTANT** - *Do not run a centered job without positioning the X-Y home away from the machine origin, as the machine will attempt to cut the job ignoring the axis limits and crashing the head.  This seems to be a bug.*
  
 *The Centering option does not seem to affect the job preview, ie: the preview does not represent the result.  If the drawing position is edited in the preview, this will offset the drawing from the center position defined by the X-Y home.*
 
