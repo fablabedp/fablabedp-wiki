@@ -2,7 +2,7 @@
 
 ###### tags: `equipment` `laser` `inkscape`
 
-![](images/epilog-mini18.jpg)  
+![](https://github.com/fablabedp/fablabedp-wiki/raw/main/images/epilog-mini18.jpg)  
 **Epilog Mini 24 60W**  
 **Bed size 600 x 300mm**  
 
@@ -59,7 +59,7 @@ Line properties for lines to cut:
  - Output Color: Display Color
  - View and Output Scale:
     - select correct viewport
-    - set cropping to `Window` or `Extents` (see [Aligning the material](#ii-align-the-material-with-the-drawing))
+    - set cropping to `Window` or `Extents` (see [Aligning the material](#ii-Align-the-material-with-the-drawing))
       - click `Set` if window needs to be repositioned.
  - Scale: 100% 1:1
  - Margins: 0 for all margins
@@ -72,7 +72,7 @@ Line properties for lines to cut:
 
 Enter Printer Properties in print dialog:
  - Select job type
- - Set Piece Size - normally 600x300mm (machine bed size) (see [Aligning the material](#ii-align-the-material-with-the-drawing)).
+ - Set Piece Size - normally 600x300mm (machine bed size) (see [Aligning the material](#ii-Align-the-material-with-the-drawing)).
  - Options:
     - Auto Focus - Ensure is disabled **unless** a full sheet of material is being used, to avoid the probe getting caught in the honeycomb bed.
     - Send to Laser - will send the job directly to the machine.
@@ -138,7 +138,7 @@ Setting the X-Y home:
 ## 5. Start Cutting
 
 - Turn on extraction
-- Turn on air pump (unless only doing raster engraving, see [Air Assist](#air-assist))
+- Turn on air pump (unless only doing raster engraving, see [Air Assist](#Air-Assist))
 - Select job - `Job > up/down`
 - Ensure lid is closed and start cutting - `Go`
 
@@ -158,8 +158,8 @@ With the `Center-Engraving` option selected, the machine will center the drawing
 
 Selecting this option will put an asterisk next to the job name on the machine.
 
-![](images/center_engraving_option.png)
-![](images/center_engraving_display.jpg)
+![](https://github.com/fablabedp/fablabedp-wiki/raw/main/images/center_engraving_option.png)
+![](https://github.com/fablabedp/fablabedp-wiki/raw/main/images/center_engraving_display.jpg)
 
  - `Center-Center` - Will center the drawing at the X-Y home, based on the drawing extents.  Page size will be ignored.
  - `Page-Center` - Will center the page as defined by `Piece Size` at the X-Y home.  This might be useful if you require non-uniform margins that are not represented by the drawing extents.
