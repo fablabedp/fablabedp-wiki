@@ -138,35 +138,41 @@ Setting the X-Y home:
 ## 5. Start Cutting
 
 - Turn on extraction
-- Turn on air pump (unless only doing raster engraving)
+- Turn on air pump (unless only doing raster engraving, see [Air Assist](#air-assist))
 - Select job - `Job > up/down`
 - Ensure lid is closed and start cutting - `Go`
 
 **Never leave the laser cutter unattended while cutting.**
 
 
-## Centering
+## Air Assist
 
+Using air assist is normally not necessary for raster engraving, and may provoke uncessary circulation of particulates inside the machine.  It is disabled by default for raster jobs, but can be activated in the config menu on the machine (if you enable this setting, you will need to re-send your job to the machine for it to take effect).
+
+If doing a raster-only job with default settings, you do not need to turn on the air pump.
+
+
+## Centering
 
 With the `Center-Engraving` option selected, the machine will center the drawing at the X-Y home (all cuts, not just engravings).
 
- - **Center-Center** - Will center the drawing at the X-Y home, based on the drawing extents.  Page size will be ignored.
- - **Page-Center** - 
+Selecting this option will put an asterisk next to the job name on the machine.
 
-*The Centering option does not seem to affect the job preview, ie: the result does not represent the preview, and depends on the defined home position*
+![](images/center_engraving_option.png)
+![](images/center_engraving_display.jpg)
 
-
-
-
-
-
-
-
-
-
+ - `Center-Center` - Will center the drawing at the X-Y home, based on the drawing extents.  Page size will be ignored.
+ - `Page-Center` - Will center the page as defined by `Piece Size` at the X-Y home.  This might be useful if you require non-uniform margins that are not represented by the drawing extents.
+ - `Left-Center` and `Top-Center` - These do not seem to work on our machine.  Trying to run the job gives the error "Job Not Ready Yet"
+ 
+*The Centering option does not seem to affect the job preview, ie: the preview does not represent the result.  If the drawing position is edited in the preview, this will offset the drawing from the center position defined by the X-Y home.*
 
 
 ## Color Mapping
 
+Color mapping can be used to have different cut properties for different lines within the same job.
 
-Air assist for raster?
+ - Any colors can be used, but the R,G,B values must exactly match those defined in the print properties Color Mapping tab.
+ - Black cannot be used for color mapping, any black lines or fills will use the cut properties defined on the General tab.
+ - Any colors in the drawing that do not match those listed in the Color Mapping tab will also be interpreted as black.
+ - Air assist will only work for raster engraving color-mapped lines if raster air assist is enabled in the machine config menu.
