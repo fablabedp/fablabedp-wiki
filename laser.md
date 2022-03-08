@@ -176,4 +176,4 @@ Color mapping can be used to have different cut properties for different lines w
  - Black cannot be used for color mapping, any black lines or fills will use the cut properties defined on the General tab.
  - Any colors in the drawing that do not match those listed in the Color Mapping tab will also be interpreted as black.
  - Air assist will only work for raster engraving color-mapped lines if raster air assist is enabled in the machine config menu.
- - In the Epilog Job Manager, the color mapping tab will list all the colors found in the drawing matching those defined in the print settings.  If a color is defined in the print settings but not found in the drawing it will not list it, **with the exception of the first color in the list** (a bug?)
+ - In the Epilog Job Manager, the color mapping tab will list all the colors found in the drawing matching those defined in the print settings.  If a color is defined in the print settings but not found in the drawing it will not list it, *with the exception of the first color in the list (a bug?)*.
