@@ -80,17 +80,19 @@ Enter Printer Properties in print dialog:
 
 ### Vector Setting
 
-Some recommended Settings from Epilog:  
+Some recommended Settings:  
 |               |        | Speed | Power | Frequency |
 | ------------- | ------ | ----- | ----- | --------- |
 | MDF / Plywood | 3 mm   | 30    | 60    | 500       |
-|               | 6.4 mm | 20    | 100   | 500       |
+|               | 6.4 mm | 15    | 100   | 500       |
 |               | 9.5 mm | 10    | 100   | 500       |
 | Acrylic       | 3 mm   | 20    | 100   | 5000      |
 |               | 6.4 mm | 12    | 100   | 5000      |
 |               | 9.5 mm | 6     | 100   | 5000      |
 | Leather       | 3 mm   | 50    | 80    | 5000      |
 | Rubber        | ? mm   | 60    | 90    | 500       |
+| PETG          | 1 mm   | 65    | 75    | 5000      |
+|               | 0.2 mm | 65    | 75    | 5000      |
 
 ### Raster Setting
 
