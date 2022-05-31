@@ -175,17 +175,17 @@ _--- break ---_
 	> what is variable  
 	> change led var to 3  
 	> analogWrite()  
-	> challenge: change fade speed  
+	> **challenge: change fade speed**  
 
 7. What is PWM
 
 8. Exercise 4: visualise temperature readings via LED
 	> map(), constrain()  
-	> challenge: use serial plotter/monitor to calibrate mapping  
+	> **challenge: use serial plotter/monitor to calibrate mapping**  
 
 9. Exercise 5: high temperature alarm
 	> functions, parameters  
-	> challenge: calibrate threshold and combine exercise 4 and 5  
+	> **challenge: calibrate threshold and combine exercise 4 and 5**  
 
 _--- lunch ---_
 
