@@ -101,7 +101,7 @@ The shield provides two relays (Datasheet)  called RELAY1 and RELAY2 commanded b
 
 
 
-## Tutorials
+## Prime Bundle Tutorials
 
 _**Retired** - Some elements are out of date_
 
@@ -140,54 +140,67 @@ https://docs.arduino.cc/retired/getting-started-guides/IoT%20Prime%20-%20Experim
 
 ## Outline
 
+0. Introductions, intro to FabLab
 1. What is arduino, introduction to the MKR1010 and Prime Bundle
-	- > show some example arduino projects
-2. Use offline Arduino IDE to program the board
-	- Output all sensor readings to Serial monitor
-	- use RGB LED to monitor humidity
-	- 
-	> overview of IDE
+	> show some example arduino projects  
+	> [A Glove That Translate Sign Language Into Text and Speech ](https://create.arduino.cc/projecthub/173799/a-glove-that-translate-sign-language-into-text-and-speech-c91b13?ref=platform&ref_id=424_trending___&offset=44)  
+	> [Secret Knock Detecting Door Lock ](http://grathio.com/2009/11/secret_knock_detecting_door_lock/)  
+	> [Punch Activated Arm Flamethrowers](https://create.arduino.cc/projecthub/Advanced/punch-activated-arm-flamethrowers-real-firebending-95bb80?ref=platform&ref_id=424_trending___&offset=28)  
+2. What is compilation, what is open source, intro to Arduino IDE
+	> overview of IDE  
 	> sketches and sketch folder  
+	> examples  
+3. Use offline Arduino IDE to program the board
+	- Exercise 1a: MKR ENV ReadSensors example - output all sensor readings to serial monitor
+	- Exercise 1b: modified ReadSensors example using serial plotter
 	> board and serial port selection  
 	> compilation and uploading  
 	> serial monitor and plotter, Serial.begin(), Serial.println()  
 
 _--- break ---_
 
+4. Analog vs. Digital (ADC and DAC), MKR1010 pinout
+	> digitalIO, analog input, VCC, VIN, GND  
+	> operating voltages
 
-example blink
+5. Exercise 2: Blink example
+	> change LED_BUILTIN to pin 3  
+	> comments  
+	> code structure, {}, ;  
+	> setup() and loop()  
+	> pinMode(), digitalWrite(), delay()  
+	> **challenge: change blink speed**  
 
-example fade
+6. Exercise 3: Fade example
+	> what is variable  
+	> change led var to 3  
+	> analogWrite()  
+	> challenge: change fade speed  
 
-seperate sketch for pwm with led then join with sensor
+7. What is PWM
 
-3. Digital IO Basics
-	- attach LED via breadboard 
+8. Exercise 4: visualise temperature readings via LED
+	> map(), constrain()  
+	> challenge: use serial plotter/monitor to calibrate mapping  
 
-
-3. Expand the example
-	- Connect piezo using breadboard and use as high temperature alarm
-	- Experiment with mapping piezo/LED output to different sensor inputs
-	> MKR1010 pinout, digitalIO, analog input, VCC, VIN, GND  
-	> code structure, {}, ;
-	> setup(), loop()  
-	> variables (ignoring data types)  
-	> functions  
-	> pinMode(), digitalWrite(), analogWrite()  
-	> if/else, map(), delay()  
-	> libraries  
+9. Exercise 5: high temperature alarm
+	> functions, parameters  
+	> challenge: calibrate threshold and combine exercise 4 and 5  
 
 _--- lunch ---_
 
-4. What is IOT, introduction to Arduino Cloud IoT  
-	- > show some example IoT projects
+10. What is IOT, introduction to Arduino Cloud IoT
+	> show some example IoT projects  
+	> [Detect Someone Taking Your Stuff and send Gmail](https://create.arduino.cc/projecthub/iot_lover/arduino-detect-someone-taking-your-stuff-and-send-gmail-84c1c4?ref=platform&ref_id=424_trending___&offset=154)  
+	> [IoT Pet Feeder](https://create.arduino.cc/projecthub/circuito-io-team/iot-pet-feeder-10a4f3?ref=platform&ref_id=424_trending___&offset=54)  
+	> [Herb Box Eco System using Alexa](https://create.arduino.cc/projecthub/walwode/herb-box-eco-system-7c51b3?ref=platform&ref_id=424_trending___&offset=153)  
 
-5. Make an account, register new Device
+11. Make an account, register new Device **(verify account via email link before registering device)**
 
-6. Make new Thing
-	- add variables for lux, temperature, humidity and pressure
+12. Make new Thing
+	- add variables luz (int) and temperature (float) (read only)
 	- select device, add network credentials
-	- open in Web Editor and copy/paste remaining code from prepared example
+	- open in Web Editor and copy/paste code from prepared example 6
 	- upload to board
 	 > variable data types  
 	 > overview of Web Editor, explain difference between "stand alone" sketches, and sketches created with Thing on IoT Cloud, compile time limitation of free accounts  
@@ -195,17 +208,17 @@ _--- lunch ---_
 	 > different tabs correspond to files (download sketch into sketch folder for example)  
 	 > thingProperties.h, sketch.json, ReadMe.adoc, Secret  
 
-7. Make a new Dashboard and visualise sensor readings
+13. Make a new Dashboard and visualise sensor readings
  	- add Thing for shortcut to access all variables
  	- experiment with other widgets to vizualise the readings
  	- explore all the widgets to understand what kind of inputs/outputs are possible with the device
 
-8. Connect power supply and LED lamp via Relay Shield
-	- add new variable to Thing
-	- add code from second example to Thing sketch
+14. Final Challenge - Connect power supply and LED lamp via Relay Shield
+	- add new variable lamp_state (bool, read/write) to Thing (or create new Thing, whichever is easier)
+	- edit code 
 	- update dashboard with switch and led to control/monitor the lamp
 
-_--- break ---_
+_--- end ---_
 
 (extras)
 
@@ -219,7 +232,7 @@ _--- break ---_
 
 ----
 
-### student test login
+## student test login
 
 user: `ulrapktyepavvkbeje`  
 pass: `testtest`
