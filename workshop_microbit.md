@@ -66,3 +66,5 @@ https://www.elecfreaks.com/micro-bit.html
 ## Troubleshooting
 
 If the microbit seems to be having issues, or you are unable to program it, you can try updating the firmware following this guide: https://microbit.org/get-started/user-guide/firmware/  
+
+How to factory-reset the Microbit: https://support.microbit.org/support/solutions/articles/19000106820-reset-the-micro-bit  
