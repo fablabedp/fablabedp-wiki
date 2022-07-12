@@ -1,6 +1,8 @@
 
 # Workshop Microbit: Makers em sala de aula
 
+###### tags: `workshop` `microbit`
+
 Presented as part of the Lab Aberto Bootcamp 2022:  
 https://lababertobootcamp2022.pt/wp/  
 
@@ -77,7 +79,7 @@ https://www.elecfreaks.com/micro-bit.html
 4. Technical overview of the microbit hardware.
 	> How is it different to Arduino? Raspberry Pi?  
 	> What is MicroPython? What is the advantage over programming in Arduino?  
-	> What is the REPL? https://python.microbit.org/v/2  
+	> The Microbit Python editor. Also, what is the REPL? https://python.microbit.org/v/2  
 	> Compare with Adafruit Circuit Playground: https://www.adafruit.com/product/3333, https://makecode.adafruit.com/ (CircuitPython instead of MicroPython)  
 	> What is MakeCode?  Blocks based visual programming tool for education, developed by microsoft and inspired by MIT Scratch and other similar tools. Began as Microsoft Programming Experience Toolkit (PXT). www.makecode.com  
 	> Makecode can also be used with other hardware platforms: https://maker.makecode.com/  
@@ -102,5 +104,5 @@ https://www.elecfreaks.com/micro-bit.html
 	> Microbit classroom: https://classroom.microbit.org  
 
 9. Exemplos extras:
-	- Batata Quente https://makecode.microbit.org/_gxd9xf61oUu5  
+	- Hot Potato https://github.com/fablabedp/hot_potato  
 	- Paper Rock Scissors https://github.com/fablabedp/paper-rock-scissors_radio  
