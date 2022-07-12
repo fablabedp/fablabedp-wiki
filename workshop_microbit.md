@@ -51,7 +51,7 @@ https://pt.farnell.com/bbc-microbit
 https://shop.pimoroni.com/collections/micro-bit-uk  
 https://kitronik.co.uk/collections/microbit-and-accessories  
 https://pt.rs-online.com/web/c/raspberry-pi-arduino-y-modulos-de-desarrollo/tienda-bbc-micro-bit/bbc-micro-bit/  
-https://www.distrelec.de/search?q=micro%3Abit  
+https://www.distrelec.de/search?q=micro%3Abit  (PT distributor: https://www.dce-electronics.com/)
 https://eu.mouser.com/c/?q=microbit  
 
 ### International
