@@ -13,6 +13,16 @@ microbit hardware extendend reference:
 https://hackmd.io/2hb61PNfSKuB99wGxJ_tlg  
 
 
+## Examples
+
+Example 1a. Balanço https://makecode.microbit.org/_85cPVh2DVdWK  
+Example 1b. Balanço Programável https://makecode.microbit.org/_M7YDted9f3wE  
+Example 2. Air Piano https://makecode.microbit.org/_gFqhxWJp7KHW  
+Example 3. Tennis https://makecode.microbit.org/_Vjx9CCWVRPe8  
+Example 4. Hot Potato https://github.com/fablabedp/hot_potato  
+Example 5. Paper Rock Scissors https://github.com/fablabedp/paper-rock-scissors_radio  
+
+
 ## Reference Material for Teachers
 
 Stu Lowe, Beacon Hill School HK - Introduction to microbit for teachers:  
@@ -48,16 +58,3 @@ https://www.robotshop.com/es/en/micro-bit-accessories.html
 https://www.dfrobot.com/topic-281.html  
 https://www.seeedstudio.com/catalogsearch/result/?q=microbit  
 https://www.elecfreaks.com/micro-bit.html  
-
-
-
-----
-
-## Examples
-
-Example 1a. Balanço https://makecode.microbit.org/_85cPVh2DVdWK  
-Example 1b. Balanço Programável https://makecode.microbit.org/_M7YDted9f3wE  
-Example 2. Air Piano https://makecode.microbit.org/_gFqhxWJp7KHW  
-Example 3. Tennis https://makecode.microbit.org/_Vjx9CCWVRPe8  
-Example 4. Hot Potato https://github.com/fablabedp/hot_potato  
-Example 5. Paper Rock Scissors https://github.com/fablabedp/paper-rock-scissors_radio  
