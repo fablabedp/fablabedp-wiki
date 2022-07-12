@@ -61,3 +61,8 @@ https://www.robotshop.com/es/en/micro-bit-accessories.html
 https://www.dfrobot.com/topic-281.html  
 https://www.seeedstudio.com/catalogsearch/result/?q=microbit  
 https://www.elecfreaks.com/micro-bit.html  
+
+
+## Troubleshooting
+
+If the microbit seems to be having issues, or you are unable to program it, you can try updating the firmware following this guide: https://microbit.org/get-started/user-guide/firmware/  
