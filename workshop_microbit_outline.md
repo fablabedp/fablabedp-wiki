@@ -9,7 +9,7 @@
 	> Around 1M microbits were donated to UK school children by the BBC.  
 	> https://microbit.org/get-started/user-guide/overview/  
 
-2. Example 1a. Balanço
+2. Example 1a. Level
 	> https://makecode.microbit.org/_85cPVh2DVdWK  
 	> Simple overview of MakeCode  
 	> Use chrome in order to use webUSB to flash the microbit directly  
@@ -17,7 +17,7 @@
 	> Output to LED matrix  
 	> Basic logic  
 
-3. Example 1b. Balanço Programável
+3. Example 1b. Programmable Level
 	> https://makecode.microbit.org/_M7YDted9f3wE  
 	> Input using buttons  
 	> Use of variables  
@@ -54,6 +54,6 @@
 8. Review some suppliers and resources for teachers
 	> Microbit classroom: https://classroom.microbit.org  
 
-9. Exemplos extras:
-	- Hot Potato https://github.com/fablabedp/hot_potato  
-	- Paper Rock Scissors https://github.com/fablabedp/paper-rock-scissors_radio  
+9. Extra examples:
+	- 5. Hot Potato https://github.com/fablabedp/hot_potato  
+	- 6. Paper Rock Scissors https://github.com/fablabedp/paper-rock-scissors_radio  

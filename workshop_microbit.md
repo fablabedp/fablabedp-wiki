@@ -15,13 +15,13 @@ https://hackmd.io/2hb61PNfSKuB99wGxJ_tlg
 
 ## Examples
 
-Example 1a. Balanço https://makecode.microbit.org/_85cPVh2DVdWK  
-Example 1b. Balanço Programável https://makecode.microbit.org/_M7YDted9f3wE  
+Example 1a. Level https://makecode.microbit.org/_85cPVh2DVdWK  
+Example 1b. Programmable Level https://makecode.microbit.org/_M7YDted9f3wE  
 Example 2. Air Piano https://makecode.microbit.org/_gFqhxWJp7KHW  
 Example 3. Tennis https://makecode.microbit.org/_Vjx9CCWVRPe8  
 Example 4. Red Light, Green Light:  
-	conductor - https://makecode.microbit.org/_5rM0bY72gFc8  
-	player - https://makecode.microbit.org/_DkL17RXT0Vf7  
+... conductor - https://makecode.microbit.org/_5rM0bY72gFc8  
+... player - https://makecode.microbit.org/_DkL17RXT0Vf7  
 Example 5. Hot Potato https://github.com/fablabedp/hot_potato  
 Example 6. Paper Rock Scissors https://github.com/fablabedp/paper-rock-scissors_radio  
 
