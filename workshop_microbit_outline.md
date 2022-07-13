@@ -42,7 +42,12 @@
 	> Radio send and receive  
 	> Using a variable to manage states  
 
-7. Sharing projects and Git integration
+7. Example 4. Red Light Green Light
+	> https://makecode.microbit.org/_Vjx9CCWVRPe8  
+	> different programs running on different microbits  
+	> microbit multi editor  
+
+8. Sharing projects and Git integration
 	> MakeCode does not require a login to use, but you can associate your session with a github account  
 	> Read-only browser for projects with github repositories https://makecode.com/github-explorer  
 
