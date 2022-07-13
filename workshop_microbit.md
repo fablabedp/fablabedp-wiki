@@ -15,8 +15,8 @@ https://hackmd.io/2hb61PNfSKuB99wGxJ_tlg
 
 ## Examples
 
-Example 1a. Level https://makecode.microbit.org/_85cPVh2DVdWK  
-Example 1b. Programmable Level https://makecode.microbit.org/_M7YDted9f3wE  
+Example 1a. Level https://makecode.microbit.org/_b0TTY3fqTaFp  
+Example 1b. Programmable Level https://makecode.microbit.org/_2ie6ToRdpgA8  
 Example 2. Air Piano https://makecode.microbit.org/_gFqhxWJp7KHW  
 Example 3. Tennis https://makecode.microbit.org/_Vjx9CCWVRPe8  
 Example 4. Red Light, Green Light:  

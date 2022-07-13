@@ -10,7 +10,7 @@
 	> https://microbit.org/get-started/user-guide/overview/  
 
 2. Example 1a. Level
-	> https://makecode.microbit.org/_85cPVh2DVdWK  
+	> https://makecode.microbit.org/_b0TTY3fqTaFp  
 	> Simple overview of MakeCode  
 	> Use chrome in order to use webUSB to flash the microbit directly  
 	> Input using accelerometer  
@@ -18,7 +18,7 @@
 	> Basic logic  
 
 3. Example 1b. Programmable Level
-	> https://makecode.microbit.org/_M7YDted9f3wE  
+	> https://makecode.microbit.org/_2ie6ToRdpgA8  
 	> Input using buttons  
 	> Use of variables  
 
