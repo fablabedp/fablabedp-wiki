@@ -35,5 +35,6 @@ https://support.raise3d.com/list.html?cid=4&pid=485
 ![](https://static.raise3d.com/HC-e1ce7df7b7ee464cb0d24da4fd10cabb.png)  
   You may have to adjust the Z position if there is not enough clearance available between the nozzle and the extruder to find the correct height.  After adjusting the Z position, repeat the process again with the other nozzle.  
   Both nozzles should now be at the same height.
-7. Adjust the Z home screw (remove the hotglue if in place) - After moving home, then moving 0.2mm down, the 0.2mm shim should be a snug fit between the nozzle and the build plate.  
+7. Adjust the Z home screw (remove the hotglue if in place) - After moving home, then moving 0.2mm down, the 0.2mm shim should be a snug fit between the nozzle and the build plate. The screw position is very sensitive.  
 ![](https://static.raise3d.com/HC-83e0b7fa0e384d05bc658c3f43465961.png)
+8. Put hotglue between the Z home screw head and body, to hold it in place and prevent accidental adjustments.
