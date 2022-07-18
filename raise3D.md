@@ -25,16 +25,17 @@ https://support.raise3d.com/list.html?cid=4&pid=485
 
 *I found this to be the easiest way to calibrate the nozzle height of both extruders:*
 
-1. Remove the cooling fans for each extruder.  
+1. Disable the motors and move the extruder to the center of the build plate.  
+2. Remove the cooling fans for each extruder.  
 ![](https://static.raise3d.com/HC-6d69701374ad4417877c168116aa3e95.png)
-2. Heat both extruders to 180°C.
-3. Home the Z position.
-4. Adjust Z until there is a snug fit with 0.2mm metal shim between nozzle and build plate.
-5. Select the other extruder (Select L or R and then Extrude down or up to activate the extruder)
-6. Loosen the nozzle retaining screw and adjust the nozzle height until the 0.2mm shim is also snug with this nozzle.  
+3. Heat both extruders to 180°C.
+4. Home the Z position.
+5. Adjust Z until there is a snug fit with 0.2mm metal shim between nozzle and build plate.
+6. Select the other extruder (Select L or R and then Extrude down or up to activate the extruder)
+7. Loosen the nozzle retaining screw and adjust the nozzle height until the 0.2mm shim is also snug with this nozzle.  
 ![](https://static.raise3d.com/HC-e1ce7df7b7ee464cb0d24da4fd10cabb.png)  
   You may have to adjust the Z position if there is not enough clearance available between the nozzle and the extruder to find the correct height.  After adjusting the Z position, repeat the process again with the other nozzle.  
   Both nozzles should now be at the same height.
-7. Adjust the Z home screw (remove the hotglue if in place) - After moving home, then moving 0.2mm down, the 0.2mm shim should be a snug fit between the nozzle and the build plate. The screw position is very sensitive.  
+8. Adjust the Z home screw (remove the hotglue if in place) - After moving home, then moving 0.2mm down, the 0.2mm shim should be a snug fit between the nozzle and the build plate. The screw position is very sensitive.  
 ![](https://static.raise3d.com/HC-83e0b7fa0e384d05bc658c3f43465961.png)
-8. Put hotglue between the Z home screw head and body, to hold it in place and prevent accidental adjustments.
+9. Put hotglue between the Z home screw head and body, to hold it in place and prevent accidental adjustments.
