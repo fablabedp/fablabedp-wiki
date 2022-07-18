@@ -64,3 +64,8 @@ https://pub.pages.cba.mit.edu/feed_speeds/
     Feedrates can then be automatically calculated based on the % weightings in defined in the RhinoCAM preferences (Feeds & Speeds > % s to use for transferring from computed cut feed)
     - Must first choose a Material File in Job Stock Material settings (Program > Material)
     - Can then generate the feeds either in operation configuration (Feeds & Speeds > Load from File) or in Tool settings (Feeds & Speeds > Load from File)
+    
+## Errors
+
+*"No Curves found! Cannot proceed"* when trying to select edges for Machining Regions
+ - This error will appear if only polysurfaces are visible.  You need to have a curve visible somewhere, even though you can select polysurface edges as Curve Regions.
