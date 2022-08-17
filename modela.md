@@ -4,7 +4,7 @@
 
 #### **Technical Specs**
 
-> Build Area: 203.2 x 152.4 x 62.4 
+> Build Area: 203.2 x 152.4 x 60.5 
 > Max Weight: 1000 g
 
 ### Modeling Functions
