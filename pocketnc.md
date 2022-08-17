@@ -1,26 +1,20 @@
 ## PocketNC
 
-*5-axis CNC Plotter / Milling / *
+*5-axis CNC Mill*
 
 #### **Technical Specs**
+  
+  ![](https://i.imgur.com/SVo0N7K.png)
 
-> Build Area:  x  x  
-> Max Weight: 
+  ![](https://i.imgur.com/aErQApR.png)
 
-### Modeling Functions
+  
+### Materials
 
-> Chuck:  6 or 1/8in OEM
-> Sindle motor: 10W
-> RPM: 6500
-> OEM Accepted material: Wood, Plaster, Resin, Chemical Wood, Aluminum (A5052), Brass
-
-## 
-
-## Interface
-
-> Standard: 
-> Baudrate: 
-> Data Bits: 
+> OEM tested material: G5 titanium, 
+6061 aluminum, 303 
+stainless, machinable 
+wax, acetal
 
 ### Throubleshooting
 
@@ -29,8 +23,6 @@
 - Errors during operation
   
   - 
-
-- Scanning LEDs flashing twice repeatedly:
 
 - Unexpect Program Operation
   
