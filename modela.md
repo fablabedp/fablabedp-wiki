@@ -12,11 +12,11 @@
 > Chuck:  6 or 1/8in OEM
 > Sindle motor: 10W
 > RPM: 6500
-> Accepted material: Wood, Plaster, Resin, Chemical Wood, Aluminum (A5052), Brass
+> OEM Accepted material: Wood, Plaster, Resin, Chemical Wood, Aluminum (A5052), Brass
 
 ## Scanning
 
-> Sensor: Piezoeletric
+> Sensor type: Piezoeletric
 > Method: Probing Contact, mesh
 > Speed: 4 - 15mm/sec
 
@@ -51,5 +51,10 @@
   - I can't open a file
   - The included software doesn't function
   - If an error mensage appears
+  
+  Useful Links:
+  
+  > https://cam.autodesk.com/posts/post.php?name=roland%20iso
+  > https://cam.autodesk.com/posts/post.php?name=roland%20rml
 
 _All units in milimeters_
