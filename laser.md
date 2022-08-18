@@ -54,7 +54,7 @@ Line properties for lines to cut:
 ### ii. Print
 
  - Printer: Epilog Engraver WinX64
- - Size: Custom Size
+ - Size: Custom Size (Defined in Epilog properties dialog)
  - Output Type: Vector Output
  - Output Color: Not important unless using color mapping.  If using color mapping, choose the correct property based on how you configured your drawing (Colors can be specified as either Display or Print Color).
  - View and Output Scale:
