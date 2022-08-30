@@ -67,3 +67,7 @@ Step 5: Setting Work Offsets
 *link to paper method*
 
 Step 6: Simulate and Run
+
+
+
+[RWO (Rotated Work Offsets) Tutorial - User Resources - Confluence](https://pentamachine.atlassian.net/wiki/spaces/PNFUR/pages/1249378352/RWO+Rotated+Work+Offsets+Tutorial)

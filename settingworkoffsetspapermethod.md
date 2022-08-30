@@ -66,3 +66,5 @@ Select “Set DRO to a Value”.
 You will need to insert the negative of the radius of the choosen tool, meaning that value is how far the center of the tool is offset from the face of the stock in the negative direction.
 
 Note: Include the thickness of the paper in the new DRO value for a more accurate offset.
+
+[RWO (Rotated Work Offsets) Tutorial - User Resources - Confluence](https://pentamachine.atlassian.net/wiki/spaces/PNFUR/pages/1249378352/RWO+Rotated+Work+Offsets+Tutorial)

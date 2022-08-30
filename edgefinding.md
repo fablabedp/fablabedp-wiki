@@ -81,3 +81,5 @@ Once the digital origin and the physical origin are coincident, generate and pos
 [Do not move the stock after it has been located through the edge finding process. If the stock is moved, the edge finding process will have to be repeated.]
 
 [] = disclaimers
+
+[V2-10 Edge Finding Tutorial - User Resources - Confluence](https://pentamachine.atlassian.net/wiki/spaces/PNFUR/pages/368902313/V2-10+Edge+Finding+Tutorial)
