@@ -27,6 +27,7 @@ Things to try something is wrong with the drawing in the job preview:
  - Make sure all objects are paths, and not other object types such as ellipse, rectangle or text etc. - `Path > Object to Path`
  - Release/remove any clipping masks and ungroup any grouped objects.
  - Set Fill/Stroke colour to black (if not using Color Mapping).
+ - Confirm all opacity settings are set to 100% (layer, object, stroke colour etc...).
 
 ### ii. Save as PDF
 
