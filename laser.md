@@ -23,11 +23,12 @@ For lines to cut:
 For lines to engrave:
  - Set Stroke to none, if you don't want to include the stroke width in the engraving.
 
-Things to try something is wrong with the drawing in the job preview:
+Things to try something is wrong with the drawing in the job preview or their are problemas with printing the job:
  - Make sure all objects are paths, and not other object types such as ellipse, rectangle or text etc. - `Path > Object to Path`
  - Release/remove any clipping masks and ungroup any grouped objects.
  - Set Fill/Stroke colour to black (if not using Color Mapping).
  - Confirm all opacity settings are set to 100% (layer, object, stroke colour etc...).
+ - Cornfirm that there are no lines outside of the page area.
 
 ### ii. Save as PDF
 
@@ -147,6 +148,7 @@ Setting the X-Y home:
 
 **Never leave the laser cutter unattended while cutting.**
 
+---
 
 ## Air Assist
 
@@ -169,7 +171,7 @@ Selecting this option will put an asterisk next to the job name on the machine.
  - `Left-Center` and `Top-Center` - These do not seem to work on our machine.  Trying to run the job gives the error "Job Not Ready Yet"
 
 **IMPORTANT** - *Do not run a centered job without positioning the X-Y home away from the machine origin, as the machine will attempt to cut the job ignoring the axis limits and crashing the head.  This seems to be a bug.*
- 
+
 *The Centering option does not seem to affect the job preview, ie: the preview does not represent the result.  If the drawing position is edited in the preview, this will offset the drawing from the center position defined by the X-Y home.*
 
 
@@ -182,3 +184,17 @@ Color mapping can be used to have different cut properties for different lines w
  - Any colors in the drawing that do not match those listed in the Color Mapping tab will also be interpreted as black.
  - Air assist will only work for raster engraving color-mapped lines if raster air assist is enabled in the machine config menu.
  - In the Epilog Job Manager, the color mapping tab will list all the colors found in the drawing matching those defined in the print settings.  If a color is defined in the print settings but not found in the drawing it will not list it, *with the exception of the first color in the list (a bug?)*.
+
+---
+
+## Cleaning
+
+1. Open the front door and vacuum the debris under the bed.
+2. Detach the lens and mirror holder from the toolhead, by removing two screws.
+3. If necessary to facilitate cleaning, remove the mirror and the lens from the holder, each are held by 4 small screws.
+4. Put drop of lens cleaner on the mirror and clean with a sheet of lens cleaning tissue.  Repeat for both sides of the lens.
+5. Reassemble the lens and mirror, ensuring that the o-rings are on the back side of the mirror and the bottom side of the lens, and that the lens has the curved side facing upwards.
+6. Remove the left side panel, by removing 6 screws.
+7. Without any further disassembly, with a drop of lens cleaner on lens cleaning tissue, clean the mirror at the end of the x-axis gantry, and the window of the mirror assembly at the top of the machine.
+8. Replace the side panel.
+9. Clean the z focus probe with a toothbrush and galforce.
