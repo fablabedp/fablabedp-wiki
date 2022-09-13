@@ -27,7 +27,7 @@
 > - acetal
 
 
-##Edge finding
+## Edge finding
 
 B Axis offset 
 
@@ -109,7 +109,7 @@ Once the digital origin and the physical origin are coincident, generate and pos
 
 [] = disclaimers
 
-##Rotated Work Offsets Tutorial
+## Rotated Work Offsets Tutorial
 
 Pocket NC’s Rotated Work Offsets feature allows users to set a work coordinate system (WCS) origin that is relative to a point on a part or its stock, instead of a point that is relative to the machine (typically the center of rotation).
 This allows the stock to be loaded onto the machine differently than it is modeled in the CAM workspace while maintaining the ability to perform positional 5 axis tool paths, otherwise known as 3+2 machining. 
@@ -181,7 +181,7 @@ Step 6: Simulate and Run
 
 [RWO (Rotated Work Offsets) Tutorial - User Resources - Confluence](https://pentamachine.atlassian.net/wiki/spaces/PNFUR/pages/1249378352/RWO+Rotated+Work+Offsets+Tutorial)
 
-##Setting Work Offsets (Paper Method):
+## Setting Work Offsets (Paper Method):
 
 This is a manual intervention step where the machine is told what point all of the g-code coordinates originate from.
 There are several ways to perform this process but in this example we are going to use the simple touch-off/paper method. 
