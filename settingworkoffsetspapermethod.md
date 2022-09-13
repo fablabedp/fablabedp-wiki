@@ -1,4 +1,4 @@
-Setting Work Offsets (Paper Method):
+##Setting Work Offsets (Paper Method):
 
 This is a manual intervention step where the machine is told what point all of the g-code coordinates originate from.
 There are several ways to perform this process but in this example we are going to use the simple touch-off/paper method. 

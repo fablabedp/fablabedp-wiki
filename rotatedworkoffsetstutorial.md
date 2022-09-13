@@ -1,4 +1,4 @@
-Rotated Work Offsets Tutorial
+##Rotated Work Offsets Tutorial
 
 Pocket NC’s Rotated Work Offsets feature allows users to set a work coordinate system (WCS) origin that is relative to a point on a part or its stock, instead of a point that is relative to the machine (typically the center of rotation).
 This allows the stock to be loaded onto the machine differently than it is modeled in the CAM workspace while maintaining the ability to perform positional 5 axis tool paths, otherwise known as 3+2 machining. 
