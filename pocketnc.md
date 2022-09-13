@@ -13,9 +13,8 @@
 
 ## Technical Specs
 
-![](https://i.imgur.com/SVo0N7K.png)
-![](https://i.imgur.com/aErQApR.png)
-
+![](https://i.imgur.com/SVo0N7K.png)  
+![](https://i.imgur.com/aErQApR.png)  
 
 ### Materials
 
