@@ -1,8 +1,8 @@
-Pocket NC
+#Pocket NC
 
-Edge finding
+##Edge finding
 
-B Axis offset
+B Axis offset 
 
 Default offset of 0.885 in.
 *insert* measured offset.
@@ -19,9 +19,10 @@ Measure Tool Length Offset
 
 Measure the machining tool length offset of the tools you will be using for machining the part.
 
-When you are finished measuring tool length offsets, load the edge finding tool holder into the spindle and install the edge finding tool. You do not need to measure the tool length offset of the edge finder.
 
-Don't forget the dowel pins if installing the vise
+When measuring tool length offsets is complete, load the edge finding tool holder into the spindle and installit. You do not need to measure the tool length offset of the edge finder.
+
+Don't forget the dowel pins if you choose to install the vise
 
 Collet order:
 
@@ -31,7 +32,7 @@ Collet order:
 
 Measure X offset:
 
-First, measure the X offset. Use the manual controls to move the spindle alongside the stock on the outside (opposite from the A table side) of the stock. The edge finding tool should be parallel to the X face of the stock.
+First of all, measure the X offset. Use the manual controls to move the spindle alongside the stock on the outside (opposite from the A table side) of the stock. The edge finding tool should be parallel to the X face of the stock.
 
 Bump the wobbler on the edge finder slightly so that it is not concentric with the shank. Turn on the spindle using the MIDI command G0 G90 M5 S1000. [Do not exceed the maximum speed for which the edge finder is rated.]
 
@@ -49,6 +50,8 @@ Look at the Digital Readout (DRO) and record the X position.
 Type “G0 G90 M5” into the MDI window to stop the spindle.  
 
 The offset is the X distance displayed in DRO minus half of the edge finder tip diameter. The calculation for the X offset is: (absolute value of measured X distance) - (½ edge finder tip diameter) = X offset.
+
+
 
 Measure Y offset:
 
@@ -74,12 +77,10 @@ Compare this measured Y offset with the distance between the origin and the Y fa
 
 [Do not adjust the size of the stock in CAD. Instead use the move commands to adjust its location.]
 
-If the measured distance from the machine origin to the Y surface and the model value are significantly different before adjustment, and you have measured your stock and verified that the model dimensions match the physical dimensions, it means your machine origin in your model may be in the wrong location. Double check before proceeding.
+If the distance measured from the machine origin to the Y surface and the model value are significantly different before adjustment, and you have measured your stock and verified that the model dimensions match the physical dimensions, it means that your machine origin in your model may be in the wrong location. Double check before proceeding.
 
 Once the digital origin and the physical origin are coincident, generate and post-process the toolpaths.
 
 [Do not move the stock after it has been located through the edge finding process. If the stock is moved, the edge finding process will have to be repeated.]
 
 [] = disclaimers
-
-[V2-10 Edge Finding Tutorial - User Resources - Confluence](https://pentamachine.atlassian.net/wiki/spaces/PNFUR/pages/368902313/V2-10+Edge+Finding+Tutorial)
