@@ -66,7 +66,7 @@ Once you are done cutting for the day:
 
 ---
 
-# Cleaning
+# Cleaning & Maintenance
 
 ![](https://github.com/fablabedp/fablabedp-wiki/raw/main/images/wazer_low_pressure_system.png)
 
@@ -117,8 +117,6 @@ https://www.wazer.com/resources/maintenance/procedures/tank-draining-siphon-meth
 
 https://www.wazer.com/resources/maintenance/procedures/rear-baffle-quick-check  
 Rear Baffle blockage - this can cause the water level around the filters to drop relative to the level in the tank when running the low pressure pumps ("Used Abr. Collect") .  A full tank clean is needed to clear the blockage.
-
-# Pressure Lines
 
 ## Nozzle Purge
 https://www.wazer.com/resources/maintenance/procedures/nozzle-purge
