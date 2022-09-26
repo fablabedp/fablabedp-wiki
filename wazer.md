@@ -14,6 +14,8 @@ https://wazer.com/product/tech-specs/
 https://wazer.com/materials/materials-specs/  
 https://support.wazer.com/resources/maintenance/procedures-  
 
+---
+
 # Usage
 
 ## Preparation
@@ -55,14 +57,14 @@ Once you are done cutting for the day:
 **The Next Day**:
 1. Brush and vacuum the dry abrasive residue.
 4. Turn on the water tap and turn on the Wazer.
-3. Raise the cutting head and run a [tank cleaning cycle](tank-cleaning-cycle) `Setup & Maintenance > Maintenance > Tank Cleaning`.
+3. Raise the cutting head and run a [tank cleaning cycle](#Tank-Cleaning-Cycle) `Setup & Maintenance > Maintenance > Tank Cleaning`.
 4. Remove the cover of the used abrasive buckets and select `Setup & Maintenance > Maintenance > Used Abr. Collect`.  Run the low pressure pumps until the stream goes from cloudy to clear, and then press `ok`.
 5. Empty the used abrasive buckets.
-6. Clean the [drain filters](#cleaning-drain-filters).
+6. Clean the [drain filters](#Cleaning-Drain-Filters).
 7. Check that the abrasive hose end is mostly dry and unclogged.
 4. Turn off the water tap and turn off the Wazer.
 
-
+---
 
 # Cleaning
 
@@ -77,7 +79,6 @@ After doing some cutting there will be abrasive everywhere. the easiest way to c
 https://www.wazer.com/how-to-videos/empty-used-abrasive-buckets
 
 Should be emptied before every new cut.
-
 
 ## Cleaning Drain Filters
 https://www.wazer.com/resources/maintenance/procedures/drain-filter-cleaning
@@ -106,16 +107,16 @@ Should follow these steps if the filtration system does not seem to be collectin
  - To try to clear a blockage, plug the outlet holes with your fingers for about 10s, once you release the water should become murkier.  repeat several times on one side and then the other.
 
 `Setup & Maintenance > Maintenance > Abrasive Pickup cleaning`
-- Will attempt to clear blockages around the pickup filters in the corners of the tank (uses a motion routine?)
+- Will attempt to clear blockages around the pickup filters in the corners of the tank.
 
 ## Full tank cleaning
+
 https://www.wazer.com/resources/maintenance/procedures/full-tank-cleaning  
 https://www.wazer.com/resources/maintenance/procedures/venturi-clean-out  
 https://www.wazer.com/resources/maintenance/procedures/tank-draining-siphon-method
 
 https://www.wazer.com/resources/maintenance/procedures/rear-baffle-quick-check  
 Rear Baffle blockage - this can cause the water level around the filters to drop relative to the level in the tank when running the low pressure pumps ("Used Abr. Collect") .  A full tank clean is needed to clear the blockage.
-
 
 # Pressure Lines
 
