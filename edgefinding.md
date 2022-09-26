@@ -1,5 +1,3 @@
-#Pocket NC
-
 ##Edge finding
 
 B Axis offset 
@@ -18,7 +16,6 @@ Measure your stock (material) and ajust the model to match the size.
 Measure Tool Length Offset
 
 Measure the machining tool length offset of the tools you will be using for machining the part.
-
 
 When measuring tool length offsets is complete, load the edge finding tool holder into the spindle and installit. You do not need to measure the tool length offset of the edge finder.
 
@@ -50,8 +47,6 @@ Look at the Digital Readout (DRO) and record the X position.
 Type “G0 G90 M5” into the MDI window to stop the spindle.  
 
 The offset is the X distance displayed in DRO minus half of the edge finder tip diameter. The calculation for the X offset is: (absolute value of measured X distance) - (½ edge finder tip diameter) = X offset.
-
-
 
 Measure Y offset:
 

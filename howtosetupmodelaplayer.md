@@ -1,4 +1,4 @@
-# How to setup Modela Player
+## How to setup Modela Player
 
 [Do not use modela player for PCB]
 
