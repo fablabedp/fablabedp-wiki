@@ -2,21 +2,23 @@
 
 ![](https://github.com/fablabedp/fablabedp-wiki/raw/main/images/logo_FabLabEDP.jpg)  
 
+## Equipment
+
+[Laser Cutter](/bK3IQapXSNus00QLVzhfng)  
+[Raise3D](/ZiNEyIXsTxKH77LgdRgBSQ)  
+[Ultimaker](/nPqQO5LjTHyay5aVmgNaNA)  
+[Wazer](/VNoGNHg7T7-jaMRw5cHMLg)  
+[PocketNC](/At8s9zA6SvmKLbq2dSJsJA)  
+[MODELA](/GyHHX3G2QGCKusi0StYiDw)  
+
 ## Physical Computing
 
 [BBC micro:bit](/2hb61PNfSKuB99wGxJ_tlg)  
 
-## Equipment
-
-[Wazer](/VNoGNHg7T7-jaMRw5cHMLg)  
-[Laser Cutter](/bK3IQapXSNus00QLVzhfng)  
-[Raise3D](/ZiNEyIXsTxKH77LgdRgBSQ)  
-[MODELA](/GyHHX3G2QGCKusi0StYiDw)  
-[PocketNC](/At8s9zA6SvmKLbq2dSJsJA)  
-
 ## CAD
 
 [Rhino](/tCvX9WtMQC6qvMej3XqHrg)  
+[Fusion 360](/FOwa3nhXSMiPV9NTFkAKfQ)  
 
 ## CNC
 
