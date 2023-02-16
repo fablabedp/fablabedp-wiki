@@ -4,9 +4,11 @@
 
 ![](https://s1.raise3d.com/2020/08/Raise3D_3D-Printer_Pro2-Plus_Shop_2.jpg)
 
+**Raise3D Pro2 Plus 3D Printer**
+Build Volume: 305×305×605 mm
+
 https://www.raise3d.com/products/pro2-plus-3d-printer/
 
-Build Volume: 305×305×605 mm
 
 ## Documentation
 
