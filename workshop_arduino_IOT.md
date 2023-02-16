@@ -1,5 +1,6 @@
 # Workshop Arduino IOT
 
+###### tags: `workshop` `arduino`
 
 ## Arduino Cloud
 

@@ -1,4 +1,7 @@
 # Octave frequencies Table & Magic Number
+
+###### tags: `references` `som` `microbit`
+
 | |   |
 | -------- | -------- |
 | const = |	1.059 |
@@ -19,4 +22,3 @@
 | LA#	| 466.2 |
 | SI	| 493.9 |
 | DO	| 523.3 |
-###### tags: `microbit`

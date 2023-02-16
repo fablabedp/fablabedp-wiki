@@ -1,5 +1,7 @@
 # PocketNC
 
+###### tags: `equipment` `CNC`
+
 ![](https://cdn.shopify.com/s/files/1/0077/5477/6623/products/v2-10_new_1200x1200.jpg)  
 
 **Pocket NC V2-10 - 5-Axis CNC Mill**

@@ -1,4 +1,3 @@
-
 # Workshop Microbit: Makers em sala de aula
 
 ###### tags: `workshop` `microbit`
