@@ -1,4 +1,4 @@
-# Raise3D
+# Raise3D - FDM 3D Printer
 
 ###### tags: `equipment` `3d-printing`
 

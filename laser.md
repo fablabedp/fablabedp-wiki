@@ -1,4 +1,4 @@
-# Laser Cutter
+# Epilog - Laser Cutter
 
 ###### tags: `equipment` `laser` `inkscape`
 

@@ -1,4 +1,4 @@
-# PocketNC
+# PocketNC - 5-Axis CNC Mill
 
 ###### tags: `equipment` `CNC`
 
@@ -265,3 +265,13 @@ Note: Include the thickness of the paper in the new DRO value for a more accurat
   - I can't open a file ...
   - The included software doesn't function ...
   - If an error mensage appears ...
+  
+
+
+
+## G and M Code
+
+G0 G90 M5 - Stop the sindle
+G0 G90 M5 S1000 - Turn spindle on (1000 rpm)
+G5X - Work offsets
+G54 G43 Hx - TLO (H value is the tool number)

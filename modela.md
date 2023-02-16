@@ -1,33 +1,30 @@
-# Roland MODELA MDX-20
+# MODELA - Milling Machine
 
 ###### tags: `equipment` `CNC`
 
-*CNC Plotter / Milling / Probing*
+![](https://image.rolanddga.com/-/media/roland/images/support/product_shots/mdx20.jpg?rev=ad5a6994f3014e0caeb868ef89af134e&hash=6FBAB694BE0AE2FDF4A5E23672C632743844CC68)
 
-#### **Technical Specs**
+**Roland MODELA MDX-20 - Milling Machine**
 
-> Build Area: 203.2 x 152.4 x 62.4 
-> Max Weight: 1000 g
+https://www.rolanddga.com/support/products/milling/modela-mdx-20-3d-milling-machine  
 
-### Modeling Functions
+### Technical Specs
 
-> Chuck:  6 or 1/8in OEM
-> Sindle motor: 10W
-> RPM: 6500
-> Accepted material: Wood, Plaster, Resin, Chemical Wood, Aluminum (A5052), Brass
-
-## Scanning
-
-> Sensor: Piezoeletric
-> Method: Probing Contact, mesh
-> Speed: 4 - 15mm/sec
-
-## Interface
-
-> Standard: RS-232C
-> Baudrate: 9600 bps
-> Data Bits: 8 bits
-
+- Build Area: 203.2 x 152.4 x 62.4mm
+- Max Weight: 1000 g
+- Milling
+  - Chuck:  6 or 1/8in OEM
+  - Sindle motor: 10W
+  - RPM: 6500
+  - Accepted material: Wood, Plaster, Resin, Chemical Wood, Aluminum (A5052), Brass
+- Scanning
+  - Sensor: Piezoeletric
+  - Method: Probing Contact, mesh
+  - Speed: 4 - 15mm/sec
+- Interface
+  - Standard: RS-232C
+  - Baudrate: 9600 bps
+  - Data Bits: 8 bits
 
 ## How to setup Modela Player
 

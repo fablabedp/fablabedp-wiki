@@ -1,4 +1,4 @@
-# Ultimaker
+# Ultimaker - FDM 3D Printer
 
 ###### tags: `equipment` `3dprinting` `fdm`
 
