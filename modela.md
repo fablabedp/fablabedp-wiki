@@ -1,5 +1,7 @@
 # Roland MODELA MDX-20
 
+###### tags: `equipment` `CNC`
+
 *CNC Plotter / Milling / Probing*
 
 #### **Technical Specs**
