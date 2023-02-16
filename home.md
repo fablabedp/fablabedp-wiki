@@ -1,7 +1,5 @@
 # FabLabEDP Wiki
 
-###### tags: `home`
-
 ![](https://github.com/fablabedp/fablabedp-wiki/raw/main/images/logo_FabLabEDP.jpg)  
 
 ## Equipment
@@ -30,6 +28,9 @@
 
 
 
-## Refrences
+## References
 
 [Octave frequencies Table & Magic Number](/yE9C_LLZRUayCmlIRdXN4g)  
+
+
+###### tags: `home`
