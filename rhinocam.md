@@ -65,7 +65,17 @@ https://pub.pages.cba.mit.edu/feed_speeds/
     - Must first choose a Material File in Job Stock Material settings (Program > Material)
     - Can then generate the feeds either in operation configuration (Feeds & Speeds > Load from File) or in Tool settings (Feeds & Speeds > Load from File)
     
+## 4th Axis
+
+In `General Parameters` of `Machine Tool Setup`:
+- Make sure `Output all coordinates in local Setup Coordinate System` is deselected - ie: do not use any configured work zero - will use the world coordinate system as the work coordinate system.
+- `Tool Change Pt` - define a point outside the area of rotation of the stock/workpiece to avoid collisions when the work rotates between processes (ie: via Rotate Table Setup), mainly when the workpiece is non-cylindrical.
+
+
+
+
 ## Errors
 
 *"No Curves found! Cannot proceed"* when trying to select edges for Machining Regions
  - This error will appear if only polysurfaces are visible.  You need to have a curve visible somewhere, even though you can select polysurface edges as Curve Regions.
+ 
