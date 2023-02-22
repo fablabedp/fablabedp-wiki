@@ -1,4 +1,4 @@
-# FabLabEDP Wiki
+# FabLab EDP Wiki
 
 ![](https://github.com/fablabedp/fablabedp-wiki/raw/main/images/logo_FabLabEDP.jpg)  
 
@@ -26,7 +26,13 @@
 
 ## Projects
 
+Some example projects carried out at FabLab EDP:  
 
+[MI Box]()
+[Troféu Labelec Merit Award]()
+[Reproduction of Optical Meter Reader Support]()
+[Scale Model of AH Fratel Dam]()
+[Charging Post Prototype]()
 
 ## References
 
