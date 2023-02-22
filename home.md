@@ -4,12 +4,12 @@
 
 ## Equipment
 
-[Laser Cutter](/bK3IQapXSNus00QLVzhfng)  
-[Raise3D](/ZiNEyIXsTxKH77LgdRgBSQ)  
-[Ultimaker](/nPqQO5LjTHyay5aVmgNaNA)  
-[Wazer](/VNoGNHg7T7-jaMRw5cHMLg)  
-[PocketNC](/At8s9zA6SvmKLbq2dSJsJA)  
-[MODELA](/GyHHX3G2QGCKusi0StYiDw)  
+[Epilog - Laser Cutter](/bK3IQapXSNus00QLVzhfng)  
+[Raise3D - FDM 3D Printer](/ZiNEyIXsTxKH77LgdRgBSQ)  
+[Ultimaker - FDM 3D Printer](/nPqQO5LjTHyay5aVmgNaNA)  
+[Wazer - Waterjet](/VNoGNHg7T7-jaMRw5cHMLg)  
+[PocketNC - 5-Axis CNC Mill](/At8s9zA6SvmKLbq2dSJsJA)  
+[MODELA - Milling Machine](/GyHHX3G2QGCKusi0StYiDw)  
 
 ## Physical Computing
 
