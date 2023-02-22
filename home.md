@@ -15,24 +15,21 @@
 
 [BBC micro:bit](/2hb61PNfSKuB99wGxJ_tlg)  
 
-## CAD
+## Software
 
 [Rhino](/tCvX9WtMQC6qvMej3XqHrg)  
 [Fusion 360](/FOwa3nhXSMiPV9NTFkAKfQ)  
-
-## CNC
-
 [RhinoCAM](/9t6vNi0jRWaROzyPzBqpiA)  
 
 ## Projects
 
 Some example projects carried out at FabLab EDP:  
 
-[MI Box]()
-[Labelec Merit Award Trophy]()
-[Optical Electricity Meter Reader Support]()
-[Scale Model of AH Fratel Dam]()
-[EV Charging Post Prototype]()
+[MI Box](/mkzM133XQOWSNcFCu4bKJw)  
+[Labelec Merit Award Trophy](/u7J3w7JkT9G52xjEGhgkmw)  
+[Optical Electricity Meter Reader Support](/Mk6_u3fITQqvX--ZPVDpag)  
+[Scale Model of AH Fratel Dam](/o4wNDPZ2TKCpM2iEs3HhPQ)  
+[EV Charging Post Prototype](/ojdOPVOqSTmU2TUt0Y3nIw)  
 
 ## References
 
