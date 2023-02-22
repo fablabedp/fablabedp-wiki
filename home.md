@@ -29,10 +29,10 @@
 Some example projects carried out at FabLab EDP:  
 
 [MI Box]()
-[Troféu Labelec Merit Award]()
-[Reproduction of Optical Meter Reader Support]()
+[Labelec Merit Award Trophy]()
+[Optical Electricity Meter Reader Support]()
 [Scale Model of AH Fratel Dam]()
-[Charging Post Prototype]()
+[EV Charging Post Prototype]()
 
 ## References
 
