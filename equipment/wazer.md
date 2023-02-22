@@ -68,7 +68,7 @@ Once you are done cutting for the day:
 
 # Cleaning & Maintenance
 
-![](https://github.com/fablabedp/fablabedp-wiki/raw/main/images/wazer_low_pressure_system.png)
+![](https://github.com/fablabedp/fablabedp-wiki/raw/main/equipment/images/wazer_low_pressure_system.png)
 
 
 ## Cleaning everything above the water level

@@ -2,7 +2,7 @@
 
 ###### tags: `equipment` `laser` `inkscape`
 
-![](https://github.com/fablabedp/fablabedp-wiki/raw/main/images/epilog-mini18.jpg)  
+![](https://github.com/fablabedp/fablabedp-wiki/raw/main/equipment/images/epilog-mini18.jpg)  
 **Epilog Mini 24 60W**  
 **Bed size 600 x 300mm**  
 
@@ -163,8 +163,8 @@ With the `Center-Engraving` option selected, the machine will center the drawing
 
 Selecting this option will put an asterisk next to the job name on the machine.
 
-![](https://github.com/fablabedp/fablabedp-wiki/raw/main/images/center_engraving_option.png)
-![](https://github.com/fablabedp/fablabedp-wiki/raw/main/images/center_engraving_display.jpg)
+![](https://github.com/fablabedp/fablabedp-wiki/raw/main/equipment/images/center_engraving_option.png)
+![](https://github.com/fablabedp/fablabedp-wiki/raw/main/equipment/images/center_engraving_display.jpg)
 
  - `Center-Center` - Will center the drawing at the X-Y home, based on the drawing extents.  Page size will be ignored.
  - `Page-Center` - Will center the page as defined by `Piece Size` at the X-Y home.  This might be useful if you require non-uniform margins that are not represented by the drawing extents.
