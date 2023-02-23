@@ -4,9 +4,9 @@
 
 Trophy design for the inaugural [EDP Labelec Merit Award](https://www.edp.com/en/innovation/labelec/merit-award#award), recognizing academic excellence in the field of energy.  
 
-![](https://github.com/fablabedp/fablabedp-wiki/raw/main/projects/images/merit-award/lithphane-printing.jpg)
-![](https://github.com/fablabedp/fablabedp-wiki/raw/main/projects/images/merit-award/mockups_prevarnish.jpg)
 ![](https://github.com/fablabedp/fablabedp-wiki/raw/main/projects/images/merit-award/concepts.jpg)
+![](https://github.com/fablabedp/fablabedp-wiki/raw/main/projects/images/merit-award/mockups_prevarnish.jpg)
+![](https://github.com/fablabedp/fablabedp-wiki/raw/main/projects/images/merit-award/lithphane-printing.jpg)
 ![](https://github.com/fablabedp/fablabedp-wiki/raw/main/projects/images/merit-award/lithophane.jpg)  
 Three concepts were proposed and prototyped with laser cutting and 3d printing.  One concept included the lithophane technique that works when back-lit.  
 
