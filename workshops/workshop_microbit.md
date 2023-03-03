@@ -2,6 +2,9 @@
 
 ###### tags: `workshop` `microbit`
 
+Workshop Presentation  
+https://github.com/fablabedp/Presentations/raw/main/FabLabEDP_Microbit%20-%20Makers%20em%20sala%20de%20aula.pdf  
+
 Presented as part of the Lab Aberto Bootcamp 2022:  
 https://lababertobootcamp2022.pt/wp/  
 
