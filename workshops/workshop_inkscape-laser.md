@@ -1,5 +1,7 @@
 # Workshop Inkscape and Laser Cutting
 
+###### tags: `workshop` `inkscape` `laser`
+
 0. Introductions, FabLab
 
 1. What is vector drawing? Comparison with Raster.
