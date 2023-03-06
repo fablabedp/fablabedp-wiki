@@ -18,8 +18,8 @@
 ## Software
 
 [Rhino](/tCvX9WtMQC6qvMej3XqHrg)  
-[Fusion 360](/FOwa3nhXSMiPV9NTFkAKfQ)  
 [RhinoCAM](/9t6vNi0jRWaROzyPzBqpiA)  
+[Fusion 360](/FOwa3nhXSMiPV9NTFkAKfQ)  
 
 ## Projects
 
