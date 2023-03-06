@@ -18,7 +18,7 @@ The metal parts were water-jet cut, with the copper piece manually bent.
 ![](https://github.com/fablabedp/fablabedp-wiki/raw/main/projects/images/merit-award/cnc-milling.jpg)
 ![](https://github.com/fablabedp/fablabedp-wiki/raw/main/projects/images/merit-award/finished-fit.jpg)
 ![](https://github.com/fablabedp/fablabedp-wiki/raw/main/projects/images/merit-award/prevarnish.jpg)  
-The wooden parts were milled on our pocket-nc, despite being a little oversize for the machine.  The rotational axis were useful for milling the front and sides of the part without needing to re-index the material.  
+The wooden parts were milled on our pocket-nc, despite being a little oversize for the machine.  The rotational axes were useful for milling the front and sides of the part without needing to re-index the material.  
 
 ![](https://github.com/fablabedp/fablabedp-wiki/raw/main/projects/images/merit-award/laser-engraving.jpg)  
 Graphic details were laser-engraved prior to varnishing.  
