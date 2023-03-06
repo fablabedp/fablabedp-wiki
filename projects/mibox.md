@@ -2,7 +2,7 @@
 
 ###### tags: `projects` `cnc` `boxes` `rhino` `solidworks` `labelec-MI`
 
-Carrying cases designed for transporting collections of oil samples taken from distribution transformers, for the Labelec  Insulating Materials Laboratory.  
+Carrying cases designed for transporting collections of oil samples taken from power transformers, for the Labelec  Insulating Materials Laboratory.  
 
 ![](https://github.com/fablabedp/fablabedp-wiki/raw/main/projects/images/mi-box/solidworks.jpg)
 ![](https://github.com/fablabedp/fablabedp-wiki/raw/main/projects/images/mi-box/rhino.jpg)  
