@@ -72,3 +72,11 @@ _See: https://wiki.mcneel.com/rhino/badobjects_
 2. `DupEdge` and `Join` to create curve from edges
 3. `Patch` to make a surface from the curve (Set `Adjust tangency` as needed)
 4. `Join` original polysurface with new patch surface and repeat for other holes
+
+## Closing Open Meshs
+
+1. Ensure all faces are joined into single mesh with `Join`
+2. Try a combination of `UnifyMeshNormals`, `RebuildMeshNormals`, `MatchMeshEdge`, `RebuildMesh`, `
+CullDegenerateMeshFaces`, `AlignVertices`
+3. If mesh is still open, analyse with `ShowEdges`.  If holes are identified, try closing them with `FillMeshHole` or `FillMeshHoles`
+4. Once the mesh is closed, if necessary split into it's seperate closed shells with `SplitDisjointMesh`.
