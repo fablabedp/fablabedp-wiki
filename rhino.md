@@ -24,8 +24,6 @@ Some useful custom hotkeys for working in a single viewport. Set in `Rhino Optio
 | Ctrl+9 | `'_Plan` (view normal to current Cplane) |
 
 
-
-
 ## Projecting Contour Outline
 
 1. Select object >`Make2D` (with scene silhouette)
@@ -34,7 +32,7 @@ Some useful custom hotkeys for working in a single viewport. Set in `Rhino Optio
     - DeleteInput = All
     - CombineRegions = Yes
     - AllRegions
-    
+
 
 ## Merging Vertices
 
@@ -45,12 +43,24 @@ This is a manual method for turning line segments into closed curves:
 1. `SelChain`
 2. `Join`
 
+## Set Camera to View
+
+Save a new view in the Named Views Panel, can also access with `NamedView`
 
 ## Set Camera View Center
 
 To manually set camera target position:
 
 `View > Set Camera > Place target`
+
+
+## Add thickness to Curves/Polylines/Edges
+
+Can use custom display modes to change how objects are rendered.
+
+`Settings > View > Display Mode` and copy an existing mode to use as starting point.
+
+Eg: to change curve thickness `Objects > Curve > Curve Width`
 
 
 ## Fixing Bad Objects
