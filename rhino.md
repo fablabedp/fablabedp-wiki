@@ -85,6 +85,7 @@ _See: https://wiki.mcneel.com/rhino/badobjects_
 
 ## Closing Open Meshs
 
+0. Use `Dir` and `UnifyMeshNormals` to check normals and flip as necessary.
 1. Ensure all faces are joined into single mesh with `Join`
 2. Try a combination of `UnifyMeshNormals`, `RebuildMeshNormals`, `MatchMeshEdge`, `RebuildMesh`, `
 CullDegenerateMeshFaces`, `AlignVertices`
