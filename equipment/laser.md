@@ -198,3 +198,17 @@ Color mapping can be used to have different cut properties for different lines w
 7. Without any further disassembly, with a drop of lens cleaner on lens cleaning tissue, clean the mirror at the end of the x-axis gantry, and the window of the mirror assembly at the top of the machine.
 8. Replace the side panel.
 9. Clean the z focus probe with a toothbrush and galforce.
+
+---
+
+## Troubleshooting
+
+### Epilog Job Manager
+
+#### Cannot restore database / database files not visible in open dialog
+
+Backup existing jobs to a new database file first.
+
+#### Jobs do not get sent to the laser when printing
+
+On the Laser System tab, ensure that the machine is selected on the Printer Name drop down menu.
