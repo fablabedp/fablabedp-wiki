@@ -1,4 +1,4 @@
-# Workshop Microbit: Makers em sala de aula
+# Workshop Microbit
 
 ###### tags: `workshop` `microbit`
 
@@ -6,6 +6,7 @@ Workshop Presentation
 https://github.com/fablabedp/Presentations/raw/main/FabLabEDP_Microbit%20-%20Makers%20em%20sala%20de%20aula.pdf  
 
 Presented as part of the Lab Aberto Bootcamp 2022:  
+"Workshop Microbit: Makers em sala de aula"  
 https://lababertobootcamp2022.pt/wp/  
 
 Microbit hardware user guide:  
@@ -17,15 +18,19 @@ https://hackmd.io/2hb61PNfSKuB99wGxJ_tlg
 
 ## Examples
 
-Example 1a. Level https://makecode.microbit.org/_b0TTY3fqTaFp  
-Example 1b. Programmable Level https://makecode.microbit.org/_2ie6ToRdpgA8  
-Example 2. Air Piano https://makecode.microbit.org/_gFqhxWJp7KHW  
-Example 3. Tennis https://makecode.microbit.org/_Vjx9CCWVRPe8  
-Example 4. Red Light, Green Light:  
+Level https://makecode.microbit.org/_b0TTY3fqTaFp  
+Programmable Level https://makecode.microbit.org/_2ie6ToRdpgA8  
+Air Piano https://makecode.microbit.org/_gFqhxWJp7KHW  
+Tennis https://makecode.microbit.org/_Vjx9CCWVRPe8  
+Red Light, Green Light:  
 ... conductor - https://makecode.microbit.org/_5rM0bY72gFc8  
 ... player - https://makecode.microbit.org/_DkL17RXT0Vf7  
-Example 5. Hot Potato https://github.com/fablabedp/hot_potato  
-Example 6. Paper Rock Scissors https://github.com/fablabedp/paper-rock-scissors_radio  
+Hot Potato https://makecode.microbit.org/_6owV5TfyA0ud  
+Paper Rock Scissors https://makecode.microbit.org/_K6VFwbCEFffp  
+Grove Gesture Sensor https://makecode.microbit.org/_X5K7pWDevEsq  
+LED Strip https://makecode.microbit.org/_3xHXxxJfEH3c  
+LED Strip v2 https://makecode.microbit.org/_UtEKt0UH0WCa  
+Rainbow LED https://makecode.microbit.org/_eJx5rJWMwW8X  
 
 
 ## Reference Material for Teachers
