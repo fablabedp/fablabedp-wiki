@@ -29,7 +29,7 @@ Hot Potato https://makecode.microbit.org/_6owV5TfyA0ud
 Paper Rock Scissors https://makecode.microbit.org/_K6VFwbCEFffp  
 Grove Gesture Sensor https://makecode.microbit.org/_X5K7pWDevEsq  
 LED Strip https://makecode.microbit.org/_3xHXxxJfEH3c  
-LED Strip v2 https://makecode.microbit.org/_UtEKt0UH0WCa  
+LED Strip v2 https://makecode.microbit.org/_Mv6Ed6JqWf3r  
 Rainbow LED https://makecode.microbit.org/_eJx5rJWMwW8X  
 
 
