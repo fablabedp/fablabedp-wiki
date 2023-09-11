@@ -80,7 +80,7 @@ _See: https://wiki.mcneel.com/rhino/badobjects_
 
 1. `SelChain` to select edges of the hole
 2. `DupEdge` and `Join` to create curve from edges
-3. `Patch` to make a surface from the curve (Set `Adjust tangency` as needed)
+3. `Patch` (Set `Adjust tangency` as needed) to make a surface from the curve, or alternatively use `EdgeSrf`.
 4. `Join` original polysurface with new patch surface and repeat for other holes
 
 ## Closing Open Meshs
