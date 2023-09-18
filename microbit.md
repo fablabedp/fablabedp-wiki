@@ -12,6 +12,8 @@ Main MCU: Nordic Semiconductor nRF52833 (v2), nRF51822 (v1)
 *nRF51822: Arm Cortex-M0 32 bit, 16MHz, 256KB Flash, 16KB RAM*  
 Interface MCU: Nordic nRF52833 or nRF52820 (v2.2), Freescale KL27 (v2), KL26 (v1)  
 
+Excellent list of resources for micro:bit: https://github.com/carlosperate/awesome-microbit  
+
 ## Power
 
 ### Supply
