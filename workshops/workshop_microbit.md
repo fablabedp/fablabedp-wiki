@@ -3,11 +3,7 @@
 ###### tags: `workshop` `microbit`
 
 Workshop Presentation  
-https://github.com/fablabedp/Presentations/raw/main/FabLabEDP_Microbit%20-%20Makers%20em%20sala%20de%20aula.pdf  
-
-Presented as part of the Lab Aberto Bootcamp 2022:  
-"Workshop Microbit: Makers em sala de aula"  
-https://lababertobootcamp2022.pt/wp/  
+https://github.com/fablabedp/Presentations/raw/main/FabLabEDP_Microbit%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20ci%C3%AAncia%20da%20computa%C3%A7%C3%A3o%20a%20aos%20microcontroladores.pdf  
 
 Microbit hardware user guide:  
 https://microbit.org/get-started/user-guide/overview/  
