@@ -32,3 +32,7 @@
 4. Using a pair of boxes, create a bridge with a slot joining the two parts.
 5. Add one or two 5.3mm holes in the bridge for fastening the part with a screw.
 6. Export your finished part as an STL file.
+
+## Part 3: From 2D to 3D
+
+How to import 2D vector drawings from Inkscape into Tinkercad and use them to make 3D geometry

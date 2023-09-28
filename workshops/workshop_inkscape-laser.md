@@ -2,8 +2,6 @@
 
 ###### tags: `workshop` `inkscape` `laser`
 
-0. Introductions, FabLab
-
 1. What is vector drawing? Comparison with Raster.
 
 2. Introduction to Inkscape:
