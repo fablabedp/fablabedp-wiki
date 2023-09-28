@@ -23,7 +23,7 @@ For lines to cut:
 For lines to engrave:
  - Set Stroke to none, if you don't want to include the stroke width in the engraving.
 
-Things to try something is wrong with the drawing in the job preview or their are problemas with printing the job:
+Things to try if something is wrong with the drawing in the job preview, or if there are problems when printing the job:
  - Make sure all objects are paths, and not other object types such as ellipse, rectangle or text etc. - `Path > Object to Path`
  - Release/remove any clipping masks and ungroup any grouped objects.
  - Set Fill/Stroke colour to black (if not using Color Mapping).
