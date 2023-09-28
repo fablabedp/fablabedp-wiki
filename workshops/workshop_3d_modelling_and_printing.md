@@ -24,4 +24,11 @@
 
 ## Part 2: Customise your vessel
 
-
+1. Start with a ruler roughly centered on the default workplane in midpoint mode.
+2. Use a series of cylinders and cones or paraboloids to make the neck and spout of our part.
+3. Make a handle:
+	- If using some kind of rod as a handle, create a fitting for this using another group of cylinders, spaced roughly distant enough to make a comfortable handle.
+	- If printing a small handle, build this out of cylinders, boxes or spheres as you see fit.  Note that the handle will extend below the workplane.
+4. Using a pair of boxes, create a bridge with a slot joining the two parts.
+5. Add one or two 5.3mm holes in the bridge for fastening the part with a screw.
+6. Export your finished part as an STL file.
