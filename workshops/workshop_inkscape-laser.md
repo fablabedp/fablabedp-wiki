@@ -41,4 +41,4 @@
 - Align
 - Convert to path
 
-![](https://github.com/fablabedp/fablabedp-wiki/raw/main/workshops/resources/inkscape_tool_reference.svg)
+[![](https://github.com/fablabedp/fablabedp-wiki/raw/main/workshops/resources/inkscape_tool_reference.svg)](https://github.com/fablabedp/fablabedp-wiki/raw/main/workshops/resources/inkscape_tool_reference.pdf)
