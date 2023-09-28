@@ -20,6 +20,7 @@
 [Rhino](/tCvX9WtMQC6qvMej3XqHrg)  
 [RhinoCAM](/9t6vNi0jRWaROzyPzBqpiA)  
 [Fusion 360](/FOwa3nhXSMiPV9NTFkAKfQ)  
+[TinkerCAD](/Fpw9G5YGQBOijXdWkhUpng)  
 
 ## Projects
 
