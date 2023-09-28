@@ -8,7 +8,7 @@
 
  - `right click` to rotate the view. `middle click` or `shift + right click` to pan.
  - `F` - Fit the selected objects to the view.
- - Controls on left side for changing the view, including an object to change to an orthographic view.  Orthographic is recommended for most cases, using the view cube to enter 2D views.
+ - Controls on left side for changing the view, including a button to change to an orthographic view.  Orthographic view is recommended for most cases, using the view cube to enter 2D views.
 
 ### Transforming Objects
 
@@ -91,6 +91,7 @@
     + `Extrusion`
     + `Revolved adjustable shoulder`
     + `Scribble`
+    + `Text`
  - It is also possible to import a 2D vector SVG file to create 3D geometry.
     + Via the import menu, this will create an extrusion of the vector shape.
        * This is useful for importing text or other graphic elements for adding to a model surface.

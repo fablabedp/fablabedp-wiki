@@ -15,12 +15,13 @@
 3. Experiment with transforming and combining boxes, cylinders and spheres.
  - Visibility
  - Aligning objects
- - Mirro
- - Cruis
- - Duplicat
+ - Mirror
+ - Cruise
+ - Duplicate
  - Workplanes
  - Rulers
  - Types of objects
 
 ## Part 2: Customise your vessel
+
 
