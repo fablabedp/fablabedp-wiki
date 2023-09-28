@@ -21,6 +21,7 @@
 [RhinoCAM](/9t6vNi0jRWaROzyPzBqpiA)  
 [Fusion 360](/FOwa3nhXSMiPV9NTFkAKfQ)  
 [TinkerCAD](/Fpw9G5YGQBOijXdWkhUpng)  
+[Inkscape](/DNxxCp4KQmma6mhnWcZiXA)  
 
 ## Projects
 
