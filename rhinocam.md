@@ -59,11 +59,11 @@ Some reference values:
 
 ### Materials Library
 
-Material libraries can be used to automatically calculate approximate feeds and speeds.  These are loaded from a directory path that does not seem to be configurable:
+Material libraries can be used to automatically calculate approximate feeds and speeds.  These are loaded from a directory path that does not seem to be configurable:  
 `C:\ProgramData\MecSoft Corporation\RhinoCAM 2022 for Rhino 7.0\Materials`
 
-We have a custom library file here:
-`\Qsync\FORMAÇÃO\CNC\RhinoCAM\Materials_FabLabEDP\FeedsSpeedsDataMM_fablabEDP.xml`
+We have a custom library file here:  
+`\Qsync\FORMAÇÃO\CNC\RhinoCAM\Materials_FabLabEDP\FeedsSpeedsDataMM_fablabEDP.xml`  
 Copy this file to the directory used by RhinoCAM to use material settings from this library.
 
 To add a new material to the library, add a new node between the `<FeedsSpeeds>...</FeedsSpeeds>` tags:
