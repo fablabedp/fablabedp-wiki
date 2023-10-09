@@ -20,6 +20,9 @@
  - editable list of all tools for CNC and seperate tab for quantities and other references
  - data from first tab also converted to fablabedp_tools.csv and fablabedp_tools.vkb
 
+`fablabedp_tools_knife.xlsx`
+ - seperate table for knife tools which have different parameters to spindle-based tools
+
 `fablabedp_tools_user-defined.vkb`
  - tools with user-defined custom profiles, that can only be saved in knowledgebase file
 
@@ -52,7 +55,30 @@ Using Surface Speed and Chipload to calculate Spindle RPM and Feedrate:
 `Feed Rate = Spindle RPM * No. Flutes * Chip Load`
 
 Some reference values:  
-https://pub.pages.cba.mit.edu/feed_speeds/
+[Fablab Speed and Feeds Calculator](https://pub.pages.cba.mit.edu/feed_speeds/)
+
+### Materials Library
+
+Material libraries can be used to automatically calculate approximate feeds and speeds.  These are loaded from a directory path that does not seem to be configurable:
+`C:\ProgramData\MecSoft Corporation\RhinoCAM 2022 for Rhino 7.0\Materials`
+
+We have a custom library file here:
+`\Qsync\FORMAÇÃO\CNC\RhinoCAM\Materials_FabLabEDP\FeedsSpeedsDataMM_fablabEDP.xml`
+Copy this file to the directory used by RhinoCAM to use material settings from this library.
+
+To add a new material to the library, add a new node between the `<FeedsSpeeds>...</FeedsSpeeds>` tags:
+```
+<Material>
+   <Name>NEW_MATERIAL_NAME</Name>
+   <TextureFile>texture.bmp</TextureFile>
+   <FeedsSpeedsRecord>MILLING, CARBIDE, SURFACE_SPEED, FEED_PER_TOOTH</FeedsSpeedsRecord>
+   <FeedsSpeedsRecord>MILLING, HSS, SURFACE_SPEED, FEED_PER_TOOTH</FeedsSpeedsRecord>
+   <FeedsSpeedsRecord>MILLING, CERAMIC, SURFACE_SPEED, FEED_PER_TOOTH</FeedsSpeedsRecord>
+</Material>
+```
+ - `texture.bmp` does not need to be edited, RhinoCAM does not seem to care if this texture file exists or not.
+ - For `SURFACE_SPEED`(m/min) & `FEED_PER_TOOTH` (mm) you can use the *Fablab Speed and Feeds Calculator* as reference for some materials, choosing a tool diameter roughly similar to what will normally be used for this material.
+ -  The parameters for `CARBIDE`, `HSS`, and `CERAMIC` can be identical unless some customisation is really needed here.
 
 ### Setting Feeds and Speeds
 
@@ -64,18 +90,14 @@ https://pub.pages.cba.mit.edu/feed_speeds/
     Feedrates can then be automatically calculated based on the % weightings in defined in the RhinoCAM preferences (Feeds & Speeds > % s to use for transferring from computed cut feed)
     - Must first choose a Material File in Job Stock Material settings (Program > Material)
     - Can then generate the feeds either in operation configuration (Feeds & Speeds > Load from File) or in Tool settings (Feeds & Speeds > Load from File)
-    
+
 ## 4th Axis
 
 In `General Parameters` of `Machine Tool Setup`:
 - Make sure `Output all coordinates in local Setup Coordinate System` is deselected - ie: do not use any configured work zero - will use the world coordinate system as the work coordinate system.
 - `Tool Change Pt` - define a point outside the area of rotation of the stock/workpiece to avoid collisions when the work rotates between processes (ie: via Rotate Table Setup), mainly when the workpiece is non-cylindrical.
 
-
-
-
 ## Errors
 
 *"No Curves found! Cannot proceed"* when trying to select edges for Machining Regions
  - This error will appear if only polysurfaces are visible.  You need to have a curve visible somewhere, even though you can select polysurface edges as Curve Regions.
- 
