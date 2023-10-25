@@ -91,6 +91,20 @@ To add a new material to the library, add a new node between the `<FeedsSpeeds>.
     - Must first choose a Material File in Job Stock Material settings (Program > Material)
     - Can then generate the feeds either in operation configuration (Feeds & Speeds > Load from File) or in Tool settings (Feeds & Speeds > Load from File)
 
+#### Reccommended Feeds and Speeds
+
+Some suggested values adequate for most operations (via Feeds & Speeds > Load from File).
+
+Milling operations:
+- Spindle Speed: 18000
+- Feedrate: 3500
+
+Drilling operations:
+- Spindle Speed: 7000
+- Feedrate: 2000
+
+
+
 ## 4th Axis
 
 In `General Parameters` of `Machine Tool Setup`:
