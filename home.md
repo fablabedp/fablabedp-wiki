@@ -31,6 +31,8 @@ Some example projects made at FabLab EDP:
 [Labelec Merit Award Trophy](/u7J3w7JkT9G52xjEGhgkmw)  
 [Optical Electricity Meter Reader Support](/Mk6_u3fITQqvX--ZPVDpag)  
 [EV Charging Post Prototype](/ojdOPVOqSTmU2TUt0Y3nIw)  
+[FabLab EDP Kiosk](/sOO-3KMfS5-fyt3v8j--KQ)  
+
 
 ## References
 
