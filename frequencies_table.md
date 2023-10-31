@@ -1,5 +1,7 @@
 # Octave frequencies Table & Magic Number
 
+**[Wiki Home](https://hackmd.io/@fablabedp/home)**
+
 ###### tags: `references` `som` `microbit`
 
 | |   |

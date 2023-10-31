@@ -1,5 +1,7 @@
 # Workshop Microbit
 
+**[Wiki Home](https://hackmd.io/@fablabedp/home)**
+
 ###### tags: `workshop` `microbit`
 
 Workshop Presentation  

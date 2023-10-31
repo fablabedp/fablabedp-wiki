@@ -1,5 +1,7 @@
 # Epilog - Laser Cutter
 
+**[Wiki Home](https://hackmd.io/@fablabedp/home)**
+
 ###### tags: `equipment` `laser` `inkscape`
 
 ![](https://github.com/fablabedp/fablabedp-wiki/raw/main/equipment/images/epilog-mini18.jpg)  

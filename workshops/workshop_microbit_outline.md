@@ -1,5 +1,7 @@
 # Workshop Microbit - Outline
 
+**[Wiki Home](https://hackmd.io/@fablabedp/home)**
+
 ###### tags: `workshop` `microbit`
 
 0. Introductions, intro to FabLab EDP

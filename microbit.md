@@ -1,5 +1,7 @@
 # BBC micro:bit
 
+**[Wiki Home](https://hackmd.io/@fablabedp/home)**
+
 ###### tags:`physical-computing` `microbit` `makecode`
 
 ![](https://cdn-shop.adafruit.com/970x728/4781-03.jpg)  

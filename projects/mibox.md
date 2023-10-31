@@ -1,5 +1,7 @@
 # MI Box
 
+**[Wiki Home](https://hackmd.io/@fablabedp/home)**
+
 ###### tags: `projects` `cnc` `boxes` `rhino` `solidworks` `labelec-MI`
 
 Carrying cases designed for transporting collections of oil samples taken from power transformers, for the Labelec  Insulating Materials Laboratory.  

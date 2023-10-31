@@ -1,5 +1,7 @@
 # FabLab EDP Kiosk
 
+**[Wiki Home](https://hackmd.io/@fablabedp/home)**
+
 ###### tags: `projects` `kiosk` `cnc` `laser-cutting` `3d-printing` `solidworks` `rhino` `electronics` `raspberry-pi` `nodejs`
 
 

@@ -1,5 +1,7 @@
 # Wazer - Waterjet
 
+**[Wiki Home](https://hackmd.io/@fablabedp/home)**
+
 ###### tags: `equipment` `waterjet`
 
 ![](https://i.shgcdn.com/6a05dcdc-e72a-4ebd-a6f5-b00e3988d401/-/format/auto/-/preview/3000x3000/-/quality/lighter/)

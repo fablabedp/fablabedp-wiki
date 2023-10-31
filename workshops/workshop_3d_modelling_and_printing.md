@@ -1,5 +1,7 @@
 # Workshop 3D Modeling and Printing
 
+**[Wiki Home](https://hackmd.io/@fablabedp/home)**
+
 ###### tags: `workshop` `tinkercad` `3d` `inkscape` `laser`
 
 ## Part 1: Introduction to Tinkercad

@@ -1,5 +1,7 @@
 # Inkscape
 
+**[Wiki Home](https://hackmd.io/@fablabedp/home)**
+
 ###### tags: `CAD` `inkscape` `2d`
 
 ![](https://github.com/fablabedp/fablabedp-wiki/raw/main/images/inkscape.jpg)  

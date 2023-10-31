@@ -1,5 +1,7 @@
 # Workshop Inkscape and Laser Cutting
 
+**[Wiki Home](https://hackmd.io/@fablabedp/home)**
+
 ###### tags: `workshop` `inkscape` `laser`
 
 1. What is vector drawing? Comparison with Raster.

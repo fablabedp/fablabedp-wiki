@@ -1,5 +1,7 @@
 # Optical Electricity Meter Pulse Reader Support
 
+**[Wiki Home](https://hackmd.io/@fablabedp/home)**
+
 ###### tags: `projects` `laser-cutting` `3d-printing` `mechanical` `solidworks` `labelec-QI`
 
 Reproduction of an out-of-production bracket for mounting optical meter readings sensors on electricity meters, for EDP Labelec Qualifications and Inspections.  Designed to accomodate specifically the Zera TK326 and MTE SH 2003 scanning heads.  
