@@ -1,6 +1,6 @@
 # Tinkercad
 
-###### tags: `tinkercad` `3d`
+###### tags: `CAD` `tinkercad` `3d`
 
 ![](https://github.com/fablabedp/fablabedp-wiki/raw/main/images/tinkercad.jpg)  
 

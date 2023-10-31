@@ -1,6 +1,6 @@
 # Inkscape
 
-###### tags: `inkscape` `2d`
+###### tags: `CAD` `inkscape` `2d`
 
 ![](https://github.com/fablabedp/fablabedp-wiki/raw/main/images/inkscape.jpg)  
 
