@@ -18,7 +18,6 @@ There is a comprehensive guide to markdown and HackMD here: https://hackmd.io/c/
 
 ## Making a New Page
 
-
 1. Create a new markdown file for the page in the appropriate folder, and add some content.  To facilitate navigation, add a link to the wiki home at the top of the page, after the page title:  
 
 	` **[Wiki Home](https://hackmd.io/@fablabedp/home)**`  
