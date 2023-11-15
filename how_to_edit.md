@@ -35,6 +35,7 @@ To maintain synchronisation between HackMD and GitHub, it is necessary to pull a
 
 	![](https://raw.githubusercontent.com/fablabedp/fablabedp-wiki/main/resources/images/publish.png)  
 
+8. Edit the wiki home page to add a link to the new page.  In order to make the links functional on GitHub, use HackMD absolute urls (eg: https://hackmd.io/50M-O-CoRtC3L6Bp-058dw)
 
 
 ## Editing an Existing Page

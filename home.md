@@ -36,6 +36,7 @@ Some example projects made at FabLab EDP:
 
 ## References
 
+[How to edit this Wiki](https://hackmd.io/50M-O-CoRtC3L6Bp-058dw)
 [Octave frequencies Table & Magic Number](/yE9C_LLZRUayCmlIRdXN4g)  
 
 
