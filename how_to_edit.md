@@ -22,18 +22,18 @@ To maintain synchronisation between HackMD and GitHub, it is necessary to pull a
 3. On the HackMD dashboard, select `New Note`
 4. In the empty Note page, select `Pull from Github`, then select the `fablabedp-wiki` repo, `main` branch, and then navigate to the page and select `Pull`
 
-	![](https://raw.githubusercontent.com/fablabedp/fablabedp-wiki/blob/main/resources/images/pull_from_github.png)  
+	![](https://raw.githubusercontent.com/fablabedp/fablabedp-wiki/main/resources/images/pull_from_github.png)  
 
 5. In the pull dialog, select `Apply all changes`
 6. Edit the page title and add any necessary tags  
 
-	![](https://raw.githubusercontent.com/fablabedp/fablabedp-wiki/blob/main/resources/images/title_and_tags.png)  
+	![](https://raw.githubusercontent.com/fablabedp/fablabedp-wiki/main/resources/images/title_and_tags.png)  
 
-	![](https://raw.githubusercontent.com/fablabedp/fablabedp-wiki/blob/main/resources/images/title_and_tags_edited.png)  
+	![](https://raw.githubusercontent.com/fablabedp/fablabedp-wiki/main/resources/images/title_and_tags_edited.png)  
 
 7. When the page is ready to publish, Select `Share` and set note permisssions to read: `Everyone` and write: `Only me`.  If necessary you can customise the page URL, then agree to the HackMD community guidelines and select `Publish`.
 
-	![](https://raw.githubusercontent.com/fablabedp/fablabedp-wiki/blob/main/resources/images/publish.png)  
+	![](https://raw.githubusercontent.com/fablabedp/fablabedp-wiki/main/resources/images/publish.png)  
 
 
 
@@ -43,11 +43,11 @@ To maintain synchronisation between HackMD and GitHub, it is necessary to pull a
 
 After pushing a commit to GitHub, any pages edited need to be manually updated on HackMD.  In the page options select `Versions and GitHub Sync`.
 
-	![](https://raw.githubusercontent.com/fablabedp/fablabedp-wiki/blob/main/resources/images/github_sync.png)  
+	![](https://raw.githubusercontent.com/fablabedp/fablabedp-wiki/main/resources/images/github_sync.png)  
 
 If there are any new changes to synchronise there will be an orange dot on the Pull icon.  
 
-	![](https://raw.githubusercontent.com/fablabedp/fablabedp-wiki/blob/main/resources/images/pull_push.png)  
+	![](https://raw.githubusercontent.com/fablabedp/fablabedp-wiki/main/resources/images/pull_push.png)  
 
 Select `Apply All Changes`, and then you can close the _Versions and GitHub Sync_ window.
 
@@ -58,3 +58,7 @@ After editing a page on HackMD, these can be pushed as a commit to GitHub.  In t
 
 
 ## Adding Images
+
+
+
+https://raw.githubusercontent.com/fablabedp/fablabedp-wiki/main/
